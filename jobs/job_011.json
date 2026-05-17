@@ -1,0 +1,36 @@
+{
+  "id": "job_011",
+  "title": "Senior Software Engineer",
+  "company": {
+    "name": "Acme Corp",
+    "location": "New York, USA",
+    "department": "Platform Engineering"
+  },
+  "employment_type": "Full-time",
+  "work_arrangement": "Hybrid",
+  "summary": "We are looking for a Senior Software Engineer to join our platform team and help build the next generation of our financial infrastructure.",
+  "responsibilities": [
+    "Design and build scalable backend services",
+    "Collaborate with product and design teams",
+    "Review code and mentor junior engineers",
+    "Participate in on-call rotation"
+  ],
+  "required_qualifications": {
+    "experience_years": 4,
+    "skills": ["Python", "PostgreSQL", "REST APIs", "Docker"],
+    "education": "Bachelor's degree in Computer Science or equivalent experience",
+    "languages": ["English"]
+  },
+  "preferred_qualifications": {
+    "skills": ["Kubernetes", "AWS", "TypeScript", "Kafka"],
+    "certifications": ["AWS Certified Solutions Architect"]
+  },
+  "soft_skills": ["Strong communicator", "Self-starter", "Team player"],
+  "interview_process": [
+    "Recruiter Screen (30 min)",
+    "Technical Phone Screen (60 min)",
+    "Take-home Assignment",
+    "On-site / Virtual Loop (4 rounds)",
+    "Offer"
+  ]
+}
