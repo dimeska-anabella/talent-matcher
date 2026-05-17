@@ -1,0 +1,44 @@
+{
+  "id": "job_010",
+  "title": "Service Designer",
+  "company": {
+    "name": "Solita",
+    "location": "Helsinki, Finland",
+    "department": "Design"
+  },
+  "employment_type": "Full-time",
+  "work_arrangement": "Hybrid",
+  "posted_date": "2024-01-24",
+  "application_deadline": "2024-03-12",
+  "summary": "Design holistic service experiences that delight users and create business value.",
+  "responsibilities": [
+    "Facilitate service design workshops",
+    "Create service blueprints and journey maps",
+    "Conduct user research",
+    "Design end-to-end service experiences",
+    "Collaborate with multidisciplinary teams"
+  ],
+  "required_qualifications": {
+    "experience_years": 5,
+    "skills": ["Service design", "User research", "Workshop facilitation", "Journey mapping", "Prototyping"],
+    "education": "Master's degree in Design, Service Design or related field",
+    "languages": ["Finnish", "English"]
+  },
+  "preferred_qualifications": {
+    "skills": ["Design thinking", "Business design", "Change management", "Co-creation"],
+    "certifications": [],
+    "languages": ["Swedish"]
+  },
+  "benefits": [
+    "Competitive salary",
+    "Design community",
+    "International projects",
+    "Conference budget"
+  ],
+  "salary_range": {
+    "min": 48000,
+    "max": 68000,
+    "currency": "EUR",
+    "period": "annual"
+  }
+}

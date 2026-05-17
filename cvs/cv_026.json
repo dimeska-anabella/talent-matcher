@@ -1,0 +1,46 @@
+{
+  "id": "cv_026",
+  "personal_info": {
+    "name": "Sami Rantala",
+    "email": "sami.rantala@example.com",
+    "phone": "+358 50 678 9012",
+    "location": "Helsinki, Finland",
+    "linkedin": "linkedin.com/in/samirantala",
+    "github": "github.com/srantala"
+  },
+  "summary": "Blockchain developer with 3 years of experience in smart contracts and DeFi applications.",
+  "skills": {
+    "technical": ["Solidity", "Ethereum", "Web3.js", "Hardhat", "Truffle", "JavaScript", "Node.js", "React"],
+    "soft": ["Research", "Problem-solving", "Security mindset", "Collaboration"]
+  },
+  "experience": [
+    {
+      "title": "Blockchain Developer",
+      "company": "Crypto Startup",
+      "location": "Helsinki, Finland",
+      "start_date": "2021-08",
+      "end_date": null,
+      "current": true,
+      "description": "Developing smart contracts and DeFi protocols.",
+      "responsibilities": [
+        "Developed smart contracts managing $10M+ in assets",
+        "Conducted security audits and testing",
+        "Built DeFi frontend applications"
+      ],
+      "technologies": ["Solidity", "Ethereum", "Web3.js", "React"]
+    }
+  ],
+  "education": [
+    {
+      "degree": "M.Sc. in Computer Science",
+      "institution": "University of Helsinki",
+      "location": "Helsinki, Finland",
+      "graduation_date": "2021-05"
+    }
+  ],
+  "certifications": [],
+  "languages": [
+    {"language": "Finnish", "proficiency": "Native"},
+    {"language": "English", "proficiency": "Fluent"}
+  ]
+}

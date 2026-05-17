@@ -1,0 +1,57 @@
+{
+  "id": "cv_007",
+  "personal_info": {
+    "name": "Hanna Laine",
+    "email": "hanna.laine@example.com",
+    "phone": "+358 40 789 0123",
+    "location": "Helsinki, Finland",
+    "linkedin": "linkedin.com/in/hannalaine"
+  },
+  "summary": "Project manager with 10 years of experience leading agile software development teams.",
+  "skills": {
+    "technical": ["Jira", "Confluence", "MS Project", "Agile", "Scrum", "Kanban"],
+    "soft": ["Leadership", "Stakeholder management", "Risk management", "Communication", "Negotiation"]
+  },
+  "experience": [
+    {
+      "title": "Senior Project Manager",
+      "company": "IT Consulting Group",
+      "location": "Helsinki, Finland",
+      "start_date": "2018-05",
+      "end_date": null,
+      "current": true,
+      "description": "Leading enterprise digital transformation projects.",
+      "responsibilities": [
+        "Managed projects with budgets up to €5M",
+        "Led cross-functional teams of 15-20 people",
+        "Delivered 12 projects on time and within budget"
+      ],
+      "technologies": ["Jira", "Confluence", "Agile", "Scrum"]
+    }
+  ],
+  "education": [
+    {
+      "degree": "M.Sc. in Industrial Engineering",
+      "institution": "Aalto University",
+      "location": "Espoo, Finland",
+      "graduation_date": "2014-06"
+    }
+  ],
+  "certifications": [
+    {
+      "name": "PMP - Project Management Professional",
+      "issuer": "PMI",
+      "date": "2017-09"
+    },
+    {
+      "name": "Certified Scrum Master",
+      "issuer": "Scrum Alliance",
+      "date": "2016-03"
+    }
+  ],
+  "languages": [
+    {"language": "Finnish", "proficiency": "Native"},
+    {"language": "English", "proficiency": "Fluent"},
+    {"language": "Swedish", "proficiency": "Intermediate"}
+  ]
+}

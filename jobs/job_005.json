@@ -1,0 +1,44 @@
+{
+  "id": "job_005",
+  "title": "Machine Learning Engineer",
+  "company": {
+    "name": "Solita",
+    "location": "Espoo, Finland",
+    "department": "AI & Innovation"
+  },
+  "employment_type": "Full-time",
+  "work_arrangement": "Hybrid",
+  "posted_date": "2024-01-25",
+  "application_deadline": "2024-03-20",
+  "summary": "Build and deploy machine learning models to solve real-world business problems.",
+  "responsibilities": [
+    "Develop and train ML models",
+    "Deploy models to production environments",
+    "Optimize model performance",
+    "Collaborate with data engineers and scientists",
+    "Monitor and maintain deployed models"
+  ],
+  "required_qualifications": {
+    "experience_years": 3,
+    "skills": ["Python", "TensorFlow or PyTorch", "MLOps", "Cloud platforms", "SQL"],
+    "education": "Master's degree in Computer Science, Data Science or related field",
+    "languages": ["English"]
+  },
+  "preferred_qualifications": {
+    "skills": ["MLflow", "Kubernetes", "Deep learning", "NLP", "Computer vision"],
+    "certifications": ["AWS ML Specialty", "TensorFlow Certificate"],
+    "languages": ["Finnish"]
+  },
+  "benefits": [
+    "Competitive salary",
+    "Research time",
+    "Conference budget",
+    "GPU resources"
+  ],
+  "salary_range": {
+    "min": 50000,
+    "max": 70000,
+    "currency": "EUR",
+    "period": "annual"
+  }
+}

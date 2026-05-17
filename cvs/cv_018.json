@@ -1,0 +1,52 @@
+{
+  "id": "cv_018",
+  "personal_info": {
+    "name": "Markku Järvinen",
+    "email": "markku.jarvinen@example.com",
+    "phone": "+358 45 890 1234",
+    "location": "Tampere, Finland",
+    "linkedin": "linkedin.com/in/markkujarvinen",
+    "github": "github.com/mjarvinen"
+  },
+  "summary": "Database administrator with 8 years of experience managing enterprise databases.",
+  "skills": {
+    "technical": ["PostgreSQL", "MySQL", "Oracle", "MongoDB", "Database tuning", "Backup/recovery", "SQL", "Python", "Linux"],
+    "soft": ["Problem-solving", "Performance optimization", "Documentation", "On-call support"]
+  },
+  "experience": [
+    {
+      "title": "Senior Database Administrator",
+      "company": "Enterprise Systems Ltd",
+      "location": "Tampere, Finland",
+      "start_date": "2017-04",
+      "end_date": null,
+      "current": true,
+      "description": "Managing mission-critical database systems.",
+      "responsibilities": [
+        "Managed 100+ production databases",
+        "Improved query performance by 70% through optimization",
+        "Implemented automated backup and monitoring solutions"
+      ],
+      "technologies": ["PostgreSQL", "MySQL", "Python", "Linux"]
+    }
+  ],
+  "education": [
+    {
+      "degree": "B.Sc. in Information Technology",
+      "institution": "Tampere University",
+      "location": "Tampere, Finland",
+      "graduation_date": "2016-12"
+    }
+  ],
+  "certifications": [
+    {
+      "name": "Oracle Certified Professional",
+      "issuer": "Oracle",
+      "date": "2019-05"
+    }
+  ],
+  "languages": [
+    {"language": "Finnish", "proficiency": "Native"},
+    {"language": "English", "proficiency": "Fluent"}
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "id": "cv_009",
+  "personal_info": {
+    "name": "Katri Heikkinen",
+    "email": "katri.heikkinen@example.com",
+    "phone": "+358 45 901 2345",
+    "location": "Helsinki, Finland",
+    "linkedin": "linkedin.com/in/katriheikkinen"
+  },
+  "summary": "Business analyst with 7 years of experience bridging business and technology in digital projects.",
+  "skills": {
+    "technical": ["SQL", "Tableau", "Power BI", "Excel", "Jira", "UML", "Business process modeling"],
+    "soft": ["Requirements gathering", "Stakeholder communication", "Problem-solving", "Documentation"]
+  },
+  "experience": [
+    {
+      "title": "Senior Business Analyst",
+      "company": "Financial Services Corp",
+      "location": "Helsinki, Finland",
+      "start_date": "2019-02",
+      "end_date": null,
+      "current": true,
+      "description": "Analyzing business requirements for digital transformation.",
+      "responsibilities": [
+        "Gathered and documented requirements for 15+ projects",
+        "Created data visualizations for stakeholder reporting",
+        "Facilitated workshops with business and IT teams"
+      ],
+      "technologies": ["SQL", "Tableau", "Jira", "Confluence"]
+    }
+  ],
+  "education": [
+    {
+      "degree": "M.Sc. in Information Systems Science",
+      "institution": "Hanken School of Economics",
+      "location": "Helsinki, Finland",
+      "graduation_date": "2017-05"
+    }
+  ],
+  "certifications": [
+    {
+      "name": "CBAP - Certified Business Analysis Professional",
+      "issuer": "IIBA",
+      "date": "2020-06"
+    }
+  ],
+  "languages": [
+    {"language": "Finnish", "proficiency": "Native"},
+    {"language": "English", "proficiency": "Fluent"},
+    {"language": "Swedish", "proficiency": "Intermediate"}
+  ]
+}

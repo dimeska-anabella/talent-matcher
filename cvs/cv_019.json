@@ -1,0 +1,45 @@
+{
+  "id": "cv_019",
+  "personal_info": {
+    "name": "Elina Marttila",
+    "email": "elina.marttila@example.com",
+    "phone": "+358 40 901 2345",
+    "location": "Espoo, Finland",
+    "linkedin": "linkedin.com/in/elinamarttila"
+  },
+  "summary": "Technical writer with 5 years of experience creating documentation for software products.",
+  "skills": {
+    "technical": ["Technical writing", "Documentation", "Markdown", "Git", "API documentation", "MadCap Flare", "Confluence"],
+    "soft": ["Communication", "Simplifying complexity", "Attention to detail", "User empathy"]
+  },
+  "experience": [
+    {
+      "title": "Technical Writer",
+      "company": "Software Documentation Inc",
+      "location": "Espoo, Finland",
+      "start_date": "2019-07",
+      "end_date": null,
+      "current": true,
+      "description": "Creating user and developer documentation.",
+      "responsibilities": [
+        "Wrote documentation for 10+ software products",
+        "Created API documentation and developer guides",
+        "Improved documentation feedback scores by 40%"
+      ],
+      "technologies": ["Markdown", "Git", "Confluence", "MadCap Flare"]
+    }
+  ],
+  "education": [
+    {
+      "degree": "M.A. in English Language and Literature",
+      "institution": "University of Helsinki",
+      "location": "Helsinki, Finland",
+      "graduation_date": "2019-05"
+    }
+  ],
+  "certifications": [],
+  "languages": [
+    {"language": "Finnish", "proficiency": "Native"},
+    {"language": "English", "proficiency": "Native"}
+  ]
+}

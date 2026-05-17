@@ -1,0 +1,45 @@
+{
+  "id": "job_001",
+  "title": "Senior Full-Stack Developer",
+  "company": {
+    "name": "Solita",
+    "location": "Helsinki, Finland",
+    "department": "Digital Experience"
+  },
+  "employment_type": "Full-time",
+  "work_arrangement": "Hybrid",
+  "posted_date": "2024-01-15",
+  "application_deadline": "2024-02-28",
+  "summary": "We are looking for an experienced full-stack developer to join our team working on digital transformation projects for large enterprises.",
+  "responsibilities": [
+    "Design and implement scalable web applications using modern frameworks",
+    "Collaborate with cross-functional teams including designers and product owners",
+    "Participate in code reviews and technical planning",
+    "Mentor junior developers and promote best practices",
+    "Work directly with clients to understand requirements and deliver solutions"
+  ],
+  "required_qualifications": {
+    "experience_years": 5,
+    "skills": ["JavaScript/TypeScript", "React or Vue.js", "Node.js or Python", "REST APIs", "SQL databases"],
+    "education": "Bachelor's degree in Computer Science or equivalent experience",
+    "languages": ["English"]
+  },
+  "preferred_qualifications": {
+    "skills": ["AWS or Azure", "Docker/Kubernetes", "GraphQL", "CI/CD", "Agile/Scrum"],
+    "certifications": ["Cloud certifications (AWS/Azure)"],
+    "languages": ["Finnish", "Swedish"]
+  },
+  "benefits": [
+    "Competitive salary",
+    "Flexible working hours",
+    "Professional development budget",
+    "Health insurance",
+    "Pension plan"
+  ],
+  "salary_range": {
+    "min": 50000,
+    "max": 75000,
+    "currency": "EUR",
+    "period": "annual"
+  }
+}

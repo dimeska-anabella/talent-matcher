@@ -1,0 +1,44 @@
+{
+  "id": "job_007",
+  "title": "Cybersecurity Consultant",
+  "company": {
+    "name": "Solita",
+    "location": "Helsinki, Finland",
+    "department": "Security"
+  },
+  "employment_type": "Full-time",
+  "work_arrangement": "Hybrid",
+  "posted_date": "2024-01-23",
+  "application_deadline": "2024-03-15",
+  "summary": "Help our clients secure their digital assets and infrastructure.",
+  "responsibilities": [
+    "Conduct security assessments and penetration tests",
+    "Design security architectures",
+    "Advise clients on security best practices",
+    "Perform incident response",
+    "Deliver security training"
+  ],
+  "required_qualifications": {
+    "experience_years": 5,
+    "skills": ["Security architecture", "Penetration testing", "Cloud security", "SIEM", "Compliance"],
+    "education": "Bachelor's degree in Computer Science or related field",
+    "languages": ["Finnish", "English"]
+  },
+  "preferred_qualifications": {
+    "skills": ["Zero trust", "Threat modeling", "Forensics", "Security automation"],
+    "certifications": ["CISSP", "CEH", "OSCP"],
+    "languages": ["Swedish"]
+  },
+  "benefits": [
+    "Competitive salary",
+    "Certification support",
+    "Security conferences",
+    "Latest tools"
+  ],
+  "salary_range": {
+    "min": 55000,
+    "max": 80000,
+    "currency": "EUR",
+    "period": "annual"
+  }
+}

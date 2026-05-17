@@ -1,0 +1,46 @@
+{
+  "id": "cv_020",
+  "personal_info": {
+    "name": "Juha Nieminen",
+    "email": "juha.nieminen@example.com",
+    "phone": "+358 50 012 3456",
+    "location": "Oulu, Finland",
+    "linkedin": "linkedin.com/in/juhanieminen",
+    "github": "github.com/jnieminen"
+  },
+  "summary": "Embedded systems engineer with 6 years of experience in IoT and firmware development.",
+  "skills": {
+    "technical": ["C", "C++", "Python", "Embedded Linux", "RTOS", "ARM", "IoT", "MQTT", "Bluetooth", "WiFi"],
+    "soft": ["Hardware-software integration", "Debugging", "Problem-solving", "Documentation"]
+  },
+  "experience": [
+    {
+      "title": "Embedded Software Engineer",
+      "company": "IoT Devices Corp",
+      "location": "Oulu, Finland",
+      "start_date": "2018-08",
+      "end_date": null,
+      "current": true,
+      "description": "Developing firmware for IoT devices.",
+      "responsibilities": [
+        "Developed firmware for 5 IoT product lines",
+        "Implemented BLE and WiFi connectivity",
+        "Optimized power consumption by 50%"
+      ],
+      "technologies": ["C", "C++", "Embedded Linux", "MQTT", "ARM"]
+    }
+  ],
+  "education": [
+    {
+      "degree": "M.Sc. in Electrical Engineering",
+      "institution": "University of Oulu",
+      "location": "Oulu, Finland",
+      "graduation_date": "2018-06"
+    }
+  ],
+  "certifications": [],
+  "languages": [
+    {"language": "Finnish", "proficiency": "Native"},
+    {"language": "English", "proficiency": "Fluent"}
+  ]
+}

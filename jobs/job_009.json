@@ -1,0 +1,44 @@
+{
+  "id": "job_009",
+  "title": "Business Analyst",
+  "company": {
+    "name": "Solita",
+    "location": "Helsinki, Finland",
+    "department": "Business Solutions"
+  },
+  "employment_type": "Full-time",
+  "work_arrangement": "Hybrid",
+  "posted_date": "2024-01-21",
+  "application_deadline": "2024-03-08",
+  "summary": "Bridge business and technology by analyzing requirements and designing solutions.",
+  "responsibilities": [
+    "Gather and analyze business requirements",
+    "Create process models and documentation",
+    "Facilitate workshops with stakeholders",
+    "Support solution design",
+    "Validate deliveries against requirements"
+  ],
+  "required_qualifications": {
+    "experience_years": 4,
+    "skills": ["Requirements analysis", "Process modeling", "Stakeholder management", "SQL", "Documentation"],
+    "education": "Bachelor's degree in Business, IT or related field",
+    "languages": ["Finnish", "English"]
+  },
+  "preferred_qualifications": {
+    "skills": ["UML", "Data analysis", "Agile", "Change management"],
+    "certifications": ["CBAP", "Agile Analysis"],
+    "languages": ["Swedish"]
+  },
+  "benefits": [
+    "Competitive salary",
+    "Varied projects",
+    "Professional development",
+    "Flexible working"
+  ],
+  "salary_range": {
+    "min": 45000,
+    "max": 62000,
+    "currency": "EUR",
+    "period": "annual"
+  }
+}

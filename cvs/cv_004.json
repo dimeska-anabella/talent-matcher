@@ -1,0 +1,52 @@
+{
+  "id": "cv_004",
+  "personal_info": {
+    "name": "Jari Mäkinen",
+    "email": "jari.makinen@example.com",
+    "phone": "+358 40 456 7890",
+    "location": "Oulu, Finland",
+    "linkedin": "linkedin.com/in/jarimakinen",
+    "github": "github.com/jmakinen"
+  },
+  "summary": "DevOps engineer with 7 years of experience in cloud infrastructure, automation, and CI/CD.",
+  "skills": {
+    "technical": ["Kubernetes", "Docker", "Terraform", "AWS", "Azure", "Jenkins", "GitLab CI", "Python", "Bash"],
+    "soft": ["Problem-solving", "Automation mindset", "Collaboration", "Continuous improvement"]
+  },
+  "experience": [
+    {
+      "title": "DevOps Engineer",
+      "company": "Cloud Solutions Inc",
+      "location": "Oulu, Finland",
+      "start_date": "2018-09",
+      "end_date": null,
+      "current": true,
+      "description": "Managing cloud infrastructure and deployment pipelines.",
+      "responsibilities": [
+        "Implemented Kubernetes clusters for 20+ microservices",
+        "Automated infrastructure provisioning with Terraform",
+        "Reduced deployment time from hours to minutes"
+      ],
+      "technologies": ["Kubernetes", "Docker", "AWS", "Terraform", "Jenkins"]
+    }
+  ],
+  "education": [
+    {
+      "degree": "B.Sc. in Computer Engineering",
+      "institution": "University of Oulu",
+      "location": "Oulu, Finland",
+      "graduation_date": "2017-06"
+    }
+  ],
+  "certifications": [
+    {
+      "name": "Certified Kubernetes Administrator",
+      "issuer": "Cloud Native Computing Foundation",
+      "date": "2021-11"
+    }
+  ],
+  "languages": [
+    {"language": "Finnish", "proficiency": "Native"},
+    {"language": "English", "proficiency": "Fluent"}
+  ]
+}

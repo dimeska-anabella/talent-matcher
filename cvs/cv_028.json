@@ -1,0 +1,52 @@
+{
+  "id": "cv_028",
+  "personal_info": {
+    "name": "Kari Lahtinen",
+    "email": "kari.lahtinen@example.com",
+    "phone": "+358 40 890 1234",
+    "location": "Turku, Finland",
+    "linkedin": "linkedin.com/in/karilahtinen",
+    "github": "github.com/klahtinen"
+  },
+  "summary": "Network engineer with 9 years of experience in enterprise networking and security.",
+  "skills": {
+    "technical": ["Cisco", "Juniper", "Network security", "Firewalls", "VPN", "SD-WAN", "BGP", "OSPF", "MPLS"],
+    "soft": ["Troubleshooting", "Documentation", "Problem-solving", "On-call support"]
+  },
+  "experience": [
+    {
+      "title": "Senior Network Engineer",
+      "company": "Telecom Services",
+      "location": "Turku, Finland",
+      "start_date": "2016-03",
+      "end_date": null,
+      "current": true,
+      "description": "Managing enterprise network infrastructure.",
+      "responsibilities": [
+        "Managed network serving 50+ locations",
+        "Implemented SD-WAN reducing costs by 40%",
+        "Maintained 99.9% network uptime"
+      ],
+      "technologies": ["Cisco", "Palo Alto", "SD-WAN", "BGP"]
+    }
+  ],
+  "education": [
+    {
+      "degree": "B.Sc. in Telecommunications",
+      "institution": "Turku University of Applied Sciences",
+      "location": "Turku, Finland",
+      "graduation_date": "2015-12"
+    }
+  ],
+  "certifications": [
+    {
+      "name": "CCNP - Cisco Certified Network Professional",
+      "issuer": "Cisco",
+      "date": "2018-09"
+    }
+  ],
+  "languages": [
+    {"language": "Finnish", "proficiency": "Native"},
+    {"language": "English", "proficiency": "Fluent"}
+  ]
+}

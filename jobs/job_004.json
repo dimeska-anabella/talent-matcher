@@ -1,0 +1,44 @@
+{
+  "id": "job_004",
+  "title": "DevOps Engineer",
+  "company": {
+    "name": "Solita",
+    "location": "Oulu, Finland",
+    "department": "Cloud Infrastructure"
+  },
+  "employment_type": "Full-time",
+  "work_arrangement": "Remote",
+  "posted_date": "2024-01-22",
+  "application_deadline": "2024-03-10",
+  "summary": "Join our DevOps team to build and maintain cloud infrastructure and CI/CD pipelines.",
+  "responsibilities": [
+    "Design and implement CI/CD pipelines",
+    "Manage cloud infrastructure using IaC",
+    "Monitor and optimize system performance",
+    "Automate deployment processes",
+    "Ensure security and compliance"
+  ],
+  "required_qualifications": {
+    "experience_years": 4,
+    "skills": ["Kubernetes", "Docker", "AWS or Azure", "Terraform", "CI/CD tools"],
+    "education": "Bachelor's degree in Computer Science or equivalent",
+    "languages": ["English"]
+  },
+  "preferred_qualifications": {
+    "skills": ["GitLab CI", "Prometheus", "Grafana", "Ansible", "Python"],
+    "certifications": ["CKA", "AWS DevOps Professional"],
+    "languages": ["Finnish"]
+  },
+  "benefits": [
+    "Competitive salary",
+    "Full remote option",
+    "Certification support",
+    "Modern equipment"
+  ],
+  "salary_range": {
+    "min": 48000,
+    "max": 68000,
+    "currency": "EUR",
+    "period": "annual"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "id": "cv_005",
+  "personal_info": {
+    "name": "Laura Nieminen",
+    "email": "laura.nieminen@example.com",
+    "phone": "+358 50 567 8901",
+    "location": "Espoo, Finland",
+    "linkedin": "linkedin.com/in/lauranieminen"
+  },
+  "summary": "Machine learning engineer with 4 years of experience in AI model development and deployment.",
+  "skills": {
+    "technical": ["Python", "TensorFlow", "PyTorch", "Scikit-learn", "MLflow", "AWS SageMaker", "SQL", "Git"],
+    "soft": ["Research", "Analytical thinking", "Communication", "Team collaboration"]
+  },
+  "experience": [
+    {
+      "title": "Machine Learning Engineer",
+      "company": "AI Innovations",
+      "location": "Espoo, Finland",
+      "start_date": "2020-08",
+      "end_date": null,
+      "current": true,
+      "description": "Building and deploying ML models for production.",
+      "responsibilities": [
+        "Developed predictive models improving accuracy by 25%",
+        "Deployed models on AWS SageMaker",
+        "Collaborated with data scientists on feature engineering"
+      ],
+      "technologies": ["Python", "TensorFlow", "AWS", "MLflow", "Docker"]
+    }
+  ],
+  "education": [
+    {
+      "degree": "M.Sc. in Data Science",
+      "institution": "Aalto University",
+      "location": "Espoo, Finland",
+      "graduation_date": "2020-05"
+    }
+  ],
+  "certifications": [],
+  "languages": [
+    {"language": "Finnish", "proficiency": "Native"},
+    {"language": "English", "proficiency": "Fluent"}
+  ]
+}

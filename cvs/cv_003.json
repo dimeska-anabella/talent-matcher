@@ -1,0 +1,46 @@
+{
+  "id": "cv_003",
+  "personal_info": {
+    "name": "Sofia Andersson",
+    "email": "sofia.andersson@example.com",
+    "phone": "+358 45 345 6789",
+    "location": "Helsinki, Finland",
+    "linkedin": "linkedin.com/in/sofiaandersson"
+  },
+  "summary": "UX/UI Designer with 5 years of experience creating user-centered digital experiences.",
+  "skills": {
+    "technical": ["Figma", "Sketch", "Adobe XD", "InVision", "HTML/CSS", "User Research", "Prototyping"],
+    "soft": ["Creativity", "Empathy", "Communication", "Collaboration", "Design thinking"]
+  },
+  "experience": [
+    {
+      "title": "Senior UX/UI Designer",
+      "company": "Digital Agency",
+      "location": "Helsinki, Finland",
+      "start_date": "2021-01",
+      "end_date": null,
+      "current": true,
+      "description": "Leading design projects for enterprise clients.",
+      "responsibilities": [
+        "Conducted user research and usability testing",
+        "Designed mobile and web interfaces for 15+ projects",
+        "Collaborated with developers to ensure design implementation"
+      ],
+      "technologies": ["Figma", "Adobe XD", "HTML/CSS", "InVision"]
+    }
+  ],
+  "education": [
+    {
+      "degree": "B.A. in Digital Design",
+      "institution": "Lahti University of Applied Sciences",
+      "location": "Lahti, Finland",
+      "graduation_date": "2019-05"
+    }
+  ],
+  "certifications": [],
+  "languages": [
+    {"language": "Swedish", "proficiency": "Native"},
+    {"language": "Finnish", "proficiency": "Fluent"},
+    {"language": "English", "proficiency": "Fluent"}
+  ]
+}

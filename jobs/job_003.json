@@ -1,0 +1,44 @@
+{
+  "id": "job_003",
+  "title": "UX/UI Designer",
+  "company": {
+    "name": "Solita",
+    "location": "Helsinki, Finland",
+    "department": "Design"
+  },
+  "employment_type": "Full-time",
+  "work_arrangement": "Hybrid",
+  "posted_date": "2024-01-18",
+  "application_deadline": "2024-03-01",
+  "summary": "We're looking for a talented UX/UI designer to create user-centered digital experiences for our clients.",
+  "responsibilities": [
+    "Conduct user research and usability testing",
+    "Create wireframes, prototypes, and high-fidelity designs",
+    "Collaborate with developers and product owners",
+    "Maintain design systems and guidelines",
+    "Present design concepts to stakeholders"
+  ],
+  "required_qualifications": {
+    "experience_years": 3,
+    "skills": ["Figma or Sketch", "User research", "Prototyping", "Design systems", "HTML/CSS basics"],
+    "education": "Bachelor's degree in Design or related field",
+    "languages": ["English"]
+  },
+  "preferred_qualifications": {
+    "skills": ["Accessibility", "Design thinking", "Animation", "Frontend development"],
+    "certifications": [],
+    "languages": ["Finnish", "Swedish"]
+  },
+  "benefits": [
+    "Competitive salary",
+    "Design tools budget",
+    "Conference attendance",
+    "Flexible hours"
+  ],
+  "salary_range": {
+    "min": 40000,
+    "max": 60000,
+    "currency": "EUR",
+    "period": "annual"
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "id": "cv_014",
+  "personal_info": {
+    "name": "Aleksi Rantanen",
+    "email": "aleksi.rantanen@example.com",
+    "phone": "+358 50 456 7890",
+    "location": "Helsinki, Finland",
+    "linkedin": "linkedin.com/in/aleksirantanen",
+    "github": "github.com/arantanen"
+  },
+  "summary": "Product owner with 6 years of experience managing B2B SaaS products.",
+  "skills": {
+    "technical": ["Jira", "Product management tools", "Analytics", "SQL", "A/B testing"],
+    "soft": ["Product strategy", "Stakeholder management", "Prioritization", "User research", "Communication"]
+  },
+  "experience": [
+    {
+      "title": "Product Owner",
+      "company": "SaaS Platform Ltd",
+      "location": "Helsinki, Finland",
+      "start_date": "2020-03",
+      "end_date": null,
+      "current": true,
+      "description": "Managing product development for enterprise SaaS.",
+      "responsibilities": [
+        "Defined product roadmap serving 500+ enterprise customers",
+        "Increased user engagement by 45% through feature optimization",
+        "Led cross-functional team of 12 people"
+      ],
+      "technologies": ["Jira", "Confluence", "Mixpanel", "SQL"]
+    }
+  ],
+  "education": [
+    {
+      "degree": "M.Sc. in Technology Management",
+      "institution": "Aalto University",
+      "location": "Espoo, Finland",
+      "graduation_date": "2018-06"
+    }
+  ],
+  "certifications": [
+    {
+      "name": "Certified Scrum Product Owner",
+      "issuer": "Scrum Alliance",
+      "date": "2019-09"
+    }
+  ],
+  "languages": [
+    {"language": "Finnish", "proficiency": "Native"},
+    {"language": "English", "proficiency": "Fluent"}
+  ]
+}

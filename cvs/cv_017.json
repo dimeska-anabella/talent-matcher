@@ -1,0 +1,46 @@
+{
+  "id": "cv_017",
+  "personal_info": {
+    "name": "Riikka Ahonen",
+    "email": "riikka.ahonen@example.com",
+    "phone": "+358 50 789 0123",
+    "location": "Helsinki, Finland",
+    "linkedin": "linkedin.com/in/riikkaahonen"
+  },
+  "summary": "Service designer with 7 years of experience creating customer-centered service experiences.",
+  "skills": {
+    "technical": ["Service design", "Journey mapping", "Prototyping", "User research", "Workshop facilitation", "Miro", "Figma"],
+    "soft": ["Empathy", "Facilitation", "Storytelling", "Collaboration", "Design thinking"]
+  },
+  "experience": [
+    {
+      "title": "Senior Service Designer",
+      "company": "Design Consultancy",
+      "location": "Helsinki, Finland",
+      "start_date": "2019-01",
+      "end_date": null,
+      "current": true,
+      "description": "Designing end-to-end service experiences.",
+      "responsibilities": [
+        "Led service design projects for public and private sector clients",
+        "Facilitated 50+ co-creation workshops",
+        "Created service blueprints and journey maps"
+      ],
+      "technologies": ["Miro", "Figma", "Service design tools"]
+    }
+  ],
+  "education": [
+    {
+      "degree": "M.A. in Design",
+      "institution": "Aalto University",
+      "location": "Espoo, Finland",
+      "graduation_date": "2017-06"
+    }
+  ],
+  "certifications": [],
+  "languages": [
+    {"language": "Finnish", "proficiency": "Native"},
+    {"language": "English", "proficiency": "Fluent"},
+    {"language": "Swedish", "proficiency": "Intermediate"}
+  ]
+}

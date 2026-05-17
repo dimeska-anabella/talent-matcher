@@ -1,0 +1,46 @@
+{
+  "id": "cv_029",
+  "personal_info": {
+    "name": "Liisa Mäkinen",
+    "email": "liisa.makinen@example.com",
+    "phone": "+358 50 901 2345",
+    "location": "Helsinki, Finland",
+    "linkedin": "linkedin.com/in/liisamakinen"
+  },
+  "summary": "Content strategist with 6 years of experience in digital content and storytelling.",
+  "skills": {
+    "technical": ["Content strategy", "SEO", "Content management systems", "WordPress", "Social media", "Analytics"],
+    "soft": ["Writing", "Storytelling", "Creativity", "Strategy", "Communication"]
+  },
+  "experience": [
+    {
+      "title": "Content Strategist",
+      "company": "Digital Agency",
+      "location": "Helsinki, Finland",
+      "start_date": "2019-04",
+      "end_date": null,
+      "current": true,
+      "description": "Creating content strategies for clients.",
+      "responsibilities": [
+        "Developed content strategies for 20+ clients",
+        "Increased engagement rates by 60%",
+        "Managed editorial calendars and content production"
+      ],
+      "technologies": ["WordPress", "Google Analytics", "HubSpot"]
+    }
+  ],
+  "education": [
+    {
+      "degree": "M.A. in Communication",
+      "institution": "University of Helsinki",
+      "location": "Helsinki, Finland",
+      "graduation_date": "2018-12"
+    }
+  ],
+  "certifications": [],
+  "languages": [
+    {"language": "Finnish", "proficiency": "Native"},
+    {"language": "English", "proficiency": "Fluent"},
+    {"language": "Swedish", "proficiency": "Intermediate"}
+  ]
+}

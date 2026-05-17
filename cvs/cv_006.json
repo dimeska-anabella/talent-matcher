@@ -1,0 +1,46 @@
+{
+  "id": "cv_006",
+  "personal_info": {
+    "name": "Antti Laaksonen",
+    "email": "antti.laaksonen@example.com",
+    "phone": "+358 45 678 9012",
+    "location": "Turku, Finland",
+    "linkedin": "linkedin.com/in/anttilaaksonen",
+    "github": "github.com/alaaksonen"
+  },
+  "summary": "Backend developer with 5 years of experience in Java, Spring Boot, and microservices architecture.",
+  "skills": {
+    "technical": ["Java", "Spring Boot", "Kotlin", "PostgreSQL", "MongoDB", "REST APIs", "Docker", "Kafka"],
+    "soft": ["Problem-solving", "Code review", "Mentoring", "Agile"]
+  },
+  "experience": [
+    {
+      "title": "Backend Developer",
+      "company": "Enterprise Software Ltd",
+      "location": "Turku, Finland",
+      "start_date": "2019-03",
+      "end_date": null,
+      "current": true,
+      "description": "Developing enterprise backend systems.",
+      "responsibilities": [
+        "Built RESTful APIs serving 50k requests/day",
+        "Implemented event-driven architecture with Kafka",
+        "Mentored 3 junior developers"
+      ],
+      "technologies": ["Java", "Spring Boot", "PostgreSQL", "Kafka", "Docker"]
+    }
+  ],
+  "education": [
+    {
+      "degree": "B.Sc. in Computer Science",
+      "institution": "University of Turku",
+      "location": "Turku, Finland",
+      "graduation_date": "2019-01"
+    }
+  ],
+  "certifications": [],
+  "languages": [
+    {"language": "Finnish", "proficiency": "Native"},
+    {"language": "English", "proficiency": "Fluent"}
+  ]
+}
