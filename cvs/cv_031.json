@@ -1,0 +1,65 @@
+{
+  "id": "cv_031",
+  "personal_info": {
+    "name": "Jane Doe",
+    "email": "jane.doe@email.com",
+    "phone": "+1-555-0123",
+    "location": "San Francisco, USA",
+    "linkedin": "linkedin.com/in/janedoe",
+    "github": "github.com/janedoe"
+  },
+  "summary": "Full-stack software engineer with 5+ years of experience building scalable web applications.",
+  "skills": {
+    "technical": ["Python", "TypeScript", "React", "Node.js", "PostgreSQL", "Docker", "AWS"],
+    "soft": ["Leadership", "Communication", "Problem Solving", "Agile"]
+  },
+  "experience": [
+    {
+      "title": "Senior Software Engineer",
+      "company": "TechCorp Inc.",
+      "location": "San Francisco, CA",
+      "start_date": "2022-03",
+      "end_date": null,
+      "current": true,
+      "description": "Led development of microservices architecture serving 1M+ users.",
+      "responsibilities": [
+        "Reduced API latency by 40%",
+        "Mentored 3 junior engineers"
+      ],
+      "technologies": ["Python", "TypeScript", "React", "AWS", "Docker"]
+    },
+    {
+      "title": "Software Engineer",
+      "company": "StartupXYZ",
+      "location": "Remote",
+      "start_date": "2019-06",
+      "end_date": "2022-02",
+      "current": false,
+      "description": "Built and maintained full-stack features for SaaS platform.",
+      "responsibilities": [
+        "Delivered MVP in 3 months",
+        "Increased test coverage from 20% to 80%"
+      ],
+      "technologies": ["Node.js", "React", "PostgreSQL"]
+    }
+  ],
+  "education": [
+    {
+      "degree": "B.Sc. in Computer Science",
+      "institution": "University of California, Berkeley",
+      "location": "Berkeley, CA",
+      "graduation_date": "2019-05"
+    }
+  ],
+  "certifications": [
+    {
+      "name": "AWS Certified Solutions Architect",
+      "issuer": "Amazon Web Services",
+      "date": "2023-01"
+    }
+  ],
+  "languages": [
+    { "language": "English", "proficiency": "Native" },
+    { "language": "Spanish", "proficiency": "Intermediate" }
+  ]
+}
