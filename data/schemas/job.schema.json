@@ -1,0 +1,35 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Job",
+  "type": "object",
+  "required": ["id", "title", "summary", "responsibilities"],
+  "properties": {
+    "id": { "type": "string" },
+    "title": { "type": "string" },
+    "summary": { "type": "string" },
+    "responsibilities": {
+      "type": "array",
+      "items": { "type": "string" }
+    },
+    "company": {
+      "type": "object",
+      "properties": {
+        "name": { "type": "string" },
+        "location": { "type": "string" }
+      }
+    },
+    "required_qualifications": {
+      "type": "object",
+      "properties": {
+        "skills": { "type": "array", "items": { "type": "string" } },
+        "languages": { "type": "array", "items": { "type": "string" } }
+      }
+    },
+    "preferred_qualifications": {
+      "type": "object",
+      "properties": {
+        "skills": { "type": "array", "items": { "type": "string" } }
+      }
+    }
+  }
+}

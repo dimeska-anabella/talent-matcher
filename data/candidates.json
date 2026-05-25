@@ -1,0 +1,2368 @@
+{
+  "candidates": [
+    {
+      "id": "cv_001",
+      "personal_info": {
+        "name": "Emma Virtanen",
+        "email": "emma.virtanen@example.com",
+        "phone": "+358 40 123 4567",
+        "location": "Helsinki, Finland",
+        "linkedin": "linkedin.com/in/emmavirtanen",
+        "github": "github.com/evirtanen"
+      },
+      "summary": "Senior full-stack developer with 8 years of experience in React, Node.js, and cloud architecture.",
+      "skills": {
+        "technical": [
+          "JavaScript",
+          "TypeScript",
+          "React",
+          "Node.js",
+          "AWS",
+          "Docker",
+          "PostgreSQL"
+        ],
+        "soft": [
+          "Leadership",
+          "Communication",
+          "Problem-solving",
+          "Agile methodologies"
+        ]
+      },
+      "experience": [
+        {
+          "title": "Senior Software Engineer",
+          "company": "Tech Corp",
+          "location": "Helsinki, Finland",
+          "start_date": "2020-03",
+          "end_date": null,
+          "current": true,
+          "description": "Lead developer for cloud-native applications.",
+          "responsibilities": [
+            "Architected microservices on AWS",
+            "Mentored team of 5 developers",
+            "Reduced deployment time by 60%"
+          ],
+          "technologies": [
+            "React",
+            "Node.js",
+            "AWS",
+            "PostgreSQL",
+            "Docker"
+          ]
+        }
+      ],
+      "education": [
+        {
+          "degree": "M.Sc. in Computer Science",
+          "institution": "Aalto University",
+          "location": "Espoo, Finland",
+          "graduation_date": "2016-05"
+        }
+      ],
+      "certifications": [
+        {
+          "name": "AWS Certified Solutions Architect",
+          "issuer": "Amazon Web Services",
+          "date": "2021-08"
+        }
+      ],
+      "languages": [
+        {
+          "language": "English",
+          "proficiency": "Fluent"
+        },
+        {
+          "language": "Finnish",
+          "proficiency": "Native"
+        }
+      ]
+    },
+    {
+      "id": "cv_002",
+      "personal_info": {
+        "name": "Mikko Korhonen",
+        "email": "mikko.korhonen@example.com",
+        "phone": "+358 50 234 5678",
+        "location": "Tampere, Finland",
+        "linkedin": "linkedin.com/in/mikkokorhonen",
+        "github": "github.com/mkorhonen"
+      },
+      "summary": "Data engineer with 6 years of experience in building scalable data pipelines and ETL processes.",
+      "skills": {
+        "technical": [
+          "Python",
+          "Apache Spark",
+          "Airflow",
+          "AWS",
+          "Snowflake",
+          "SQL",
+          "Kafka"
+        ],
+        "soft": [
+          "Analytical thinking",
+          "Collaboration",
+          "Documentation",
+          "Agile"
+        ]
+      },
+      "experience": [
+        {
+          "title": "Senior Data Engineer",
+          "company": "DataTech Solutions",
+          "location": "Tampere, Finland",
+          "start_date": "2019-06",
+          "end_date": null,
+          "current": true,
+          "description": "Building enterprise data platforms.",
+          "responsibilities": [
+            "Designed and implemented data pipelines processing 10TB daily",
+            "Migrated on-prem data warehouse to cloud",
+            "Optimized ETL jobs reducing costs by 40%"
+          ],
+          "technologies": [
+            "Python",
+            "Spark",
+            "AWS",
+            "Snowflake",
+            "Airflow"
+          ]
+        }
+      ],
+      "education": [
+        {
+          "degree": "B.Sc. in Information Technology",
+          "institution": "Tampere University",
+          "location": "Tampere, Finland",
+          "graduation_date": "2018-05"
+        }
+      ],
+      "certifications": [
+        {
+          "name": "AWS Certified Data Analytics",
+          "issuer": "Amazon Web Services",
+          "date": "2022-03"
+        }
+      ],
+      "languages": [
+        {
+          "language": "Finnish",
+          "proficiency": "Native"
+        },
+        {
+          "language": "English",
+          "proficiency": "Fluent"
+        }
+      ]
+    },
+    {
+      "id": "cv_003",
+      "personal_info": {
+        "name": "Sofia Andersson",
+        "email": "sofia.andersson@example.com",
+        "phone": "+358 45 345 6789",
+        "location": "Helsinki, Finland",
+        "linkedin": "linkedin.com/in/sofiaandersson"
+      },
+      "summary": "UX/UI Designer with 5 years of experience creating user-centered digital experiences.",
+      "skills": {
+        "technical": [
+          "Figma",
+          "Sketch",
+          "Adobe XD",
+          "InVision",
+          "HTML/CSS",
+          "User Research",
+          "Prototyping"
+        ],
+        "soft": [
+          "Creativity",
+          "Empathy",
+          "Communication",
+          "Collaboration",
+          "Design thinking"
+        ]
+      },
+      "experience": [
+        {
+          "title": "Senior UX/UI Designer",
+          "company": "Digital Agency",
+          "location": "Helsinki, Finland",
+          "start_date": "2021-01",
+          "end_date": null,
+          "current": true,
+          "description": "Leading design projects for enterprise clients.",
+          "responsibilities": [
+            "Conducted user research and usability testing",
+            "Designed mobile and web interfaces for 15+ projects",
+            "Collaborated with developers to ensure design implementation"
+          ],
+          "technologies": [
+            "Figma",
+            "Adobe XD",
+            "HTML/CSS",
+            "InVision"
+          ]
+        }
+      ],
+      "education": [
+        {
+          "degree": "B.A. in Digital Design",
+          "institution": "Lahti University of Applied Sciences",
+          "location": "Lahti, Finland",
+          "graduation_date": "2019-05"
+        }
+      ],
+      "certifications": [],
+      "languages": [
+        {
+          "language": "Swedish",
+          "proficiency": "Native"
+        },
+        {
+          "language": "Finnish",
+          "proficiency": "Fluent"
+        },
+        {
+          "language": "English",
+          "proficiency": "Fluent"
+        }
+      ]
+    },
+    {
+      "id": "cv_004",
+      "personal_info": {
+        "name": "Jari Mäkinen",
+        "email": "jari.makinen@example.com",
+        "phone": "+358 40 456 7890",
+        "location": "Oulu, Finland",
+        "linkedin": "linkedin.com/in/jarimakinen",
+        "github": "github.com/jmakinen"
+      },
+      "summary": "DevOps engineer with 7 years of experience in cloud infrastructure, automation, and CI/CD.",
+      "skills": {
+        "technical": [
+          "Kubernetes",
+          "Docker",
+          "Terraform",
+          "AWS",
+          "Azure",
+          "Jenkins",
+          "GitLab CI",
+          "Python",
+          "Bash"
+        ],
+        "soft": [
+          "Problem-solving",
+          "Automation mindset",
+          "Collaboration",
+          "Continuous improvement"
+        ]
+      },
+      "experience": [
+        {
+          "title": "DevOps Engineer",
+          "company": "Cloud Solutions Inc",
+          "location": "Oulu, Finland",
+          "start_date": "2018-09",
+          "end_date": null,
+          "current": true,
+          "description": "Managing cloud infrastructure and deployment pipelines.",
+          "responsibilities": [
+            "Implemented Kubernetes clusters for 20+ microservices",
+            "Automated infrastructure provisioning with Terraform",
+            "Reduced deployment time from hours to minutes"
+          ],
+          "technologies": [
+            "Kubernetes",
+            "Docker",
+            "AWS",
+            "Terraform",
+            "Jenkins"
+          ]
+        }
+      ],
+      "education": [
+        {
+          "degree": "B.Sc. in Computer Engineering",
+          "institution": "University of Oulu",
+          "location": "Oulu, Finland",
+          "graduation_date": "2017-06"
+        }
+      ],
+      "certifications": [
+        {
+          "name": "Certified Kubernetes Administrator",
+          "issuer": "Cloud Native Computing Foundation",
+          "date": "2021-11"
+        }
+      ],
+      "languages": [
+        {
+          "language": "Finnish",
+          "proficiency": "Native"
+        },
+        {
+          "language": "English",
+          "proficiency": "Fluent"
+        }
+      ]
+    },
+    {
+      "id": "cv_005",
+      "personal_info": {
+        "name": "Laura Nieminen",
+        "email": "laura.nieminen@example.com",
+        "phone": "+358 50 567 8901",
+        "location": "Espoo, Finland",
+        "linkedin": "linkedin.com/in/lauranieminen"
+      },
+      "summary": "Machine learning engineer with 4 years of experience in AI model development and deployment.",
+      "skills": {
+        "technical": [
+          "Python",
+          "TensorFlow",
+          "PyTorch",
+          "Scikit-learn",
+          "MLflow",
+          "AWS SageMaker",
+          "SQL",
+          "Git"
+        ],
+        "soft": [
+          "Research",
+          "Analytical thinking",
+          "Communication",
+          "Team collaboration"
+        ]
+      },
+      "experience": [
+        {
+          "title": "Machine Learning Engineer",
+          "company": "AI Innovations",
+          "location": "Espoo, Finland",
+          "start_date": "2020-08",
+          "end_date": null,
+          "current": true,
+          "description": "Building and deploying ML models for production.",
+          "responsibilities": [
+            "Developed predictive models improving accuracy by 25%",
+            "Deployed models on AWS SageMaker",
+            "Collaborated with data scientists on feature engineering"
+          ],
+          "technologies": [
+            "Python",
+            "TensorFlow",
+            "AWS",
+            "MLflow",
+            "Docker"
+          ]
+        }
+      ],
+      "education": [
+        {
+          "degree": "M.Sc. in Data Science",
+          "institution": "Aalto University",
+          "location": "Espoo, Finland",
+          "graduation_date": "2020-05"
+        }
+      ],
+      "certifications": [],
+      "languages": [
+        {
+          "language": "Finnish",
+          "proficiency": "Native"
+        },
+        {
+          "language": "English",
+          "proficiency": "Fluent"
+        }
+      ]
+    },
+    {
+      "id": "cv_006",
+      "personal_info": {
+        "name": "Antti Laaksonen",
+        "email": "antti.laaksonen@example.com",
+        "phone": "+358 45 678 9012",
+        "location": "Turku, Finland",
+        "linkedin": "linkedin.com/in/anttilaaksonen",
+        "github": "github.com/alaaksonen"
+      },
+      "summary": "Backend developer with 5 years of experience in Java, Spring Boot, and microservices architecture.",
+      "skills": {
+        "technical": [
+          "Java",
+          "Spring Boot",
+          "Kotlin",
+          "PostgreSQL",
+          "MongoDB",
+          "REST APIs",
+          "Docker",
+          "Kafka"
+        ],
+        "soft": [
+          "Problem-solving",
+          "Code review",
+          "Mentoring",
+          "Agile"
+        ]
+      },
+      "experience": [
+        {
+          "title": "Backend Developer",
+          "company": "Enterprise Software Ltd",
+          "location": "Turku, Finland",
+          "start_date": "2019-03",
+          "end_date": null,
+          "current": true,
+          "description": "Developing enterprise backend systems.",
+          "responsibilities": [
+            "Built RESTful APIs serving 50k requests/day",
+            "Implemented event-driven architecture with Kafka",
+            "Mentored 3 junior developers"
+          ],
+          "technologies": [
+            "Java",
+            "Spring Boot",
+            "PostgreSQL",
+            "Kafka",
+            "Docker"
+          ]
+        }
+      ],
+      "education": [
+        {
+          "degree": "B.Sc. in Computer Science",
+          "institution": "University of Turku",
+          "location": "Turku, Finland",
+          "graduation_date": "2019-01"
+        }
+      ],
+      "certifications": [],
+      "languages": [
+        {
+          "language": "Finnish",
+          "proficiency": "Native"
+        },
+        {
+          "language": "English",
+          "proficiency": "Fluent"
+        }
+      ]
+    },
+    {
+      "id": "cv_007",
+      "personal_info": {
+        "name": "Hanna Laine",
+        "email": "hanna.laine@example.com",
+        "phone": "+358 40 789 0123",
+        "location": "Helsinki, Finland",
+        "linkedin": "linkedin.com/in/hannalaine"
+      },
+      "summary": "Project manager with 10 years of experience leading agile software development teams.",
+      "skills": {
+        "technical": [
+          "Jira",
+          "Confluence",
+          "MS Project",
+          "Agile",
+          "Scrum",
+          "Kanban"
+        ],
+        "soft": [
+          "Leadership",
+          "Stakeholder management",
+          "Risk management",
+          "Communication",
+          "Negotiation"
+        ]
+      },
+      "experience": [
+        {
+          "title": "Senior Project Manager",
+          "company": "IT Consulting Group",
+          "location": "Helsinki, Finland",
+          "start_date": "2018-05",
+          "end_date": null,
+          "current": true,
+          "description": "Leading enterprise digital transformation projects.",
+          "responsibilities": [
+            "Managed projects with budgets up to €5M",
+            "Led cross-functional teams of 15-20 people",
+            "Delivered 12 projects on time and within budget"
+          ],
+          "technologies": [
+            "Jira",
+            "Confluence",
+            "Agile",
+            "Scrum"
+          ]
+        }
+      ],
+      "education": [
+        {
+          "degree": "M.Sc. in Industrial Engineering",
+          "institution": "Aalto University",
+          "location": "Espoo, Finland",
+          "graduation_date": "2014-06"
+        }
+      ],
+      "certifications": [
+        {
+          "name": "PMP - Project Management Professional",
+          "issuer": "PMI",
+          "date": "2017-09"
+        },
+        {
+          "name": "Certified Scrum Master",
+          "issuer": "Scrum Alliance",
+          "date": "2016-03"
+        }
+      ],
+      "languages": [
+        {
+          "language": "Finnish",
+          "proficiency": "Native"
+        },
+        {
+          "language": "English",
+          "proficiency": "Fluent"
+        },
+        {
+          "language": "Swedish",
+          "proficiency": "Intermediate"
+        }
+      ]
+    },
+    {
+      "id": "cv_008",
+      "personal_info": {
+        "name": "Petri Salo",
+        "email": "petri.salo@example.com",
+        "phone": "+358 50 890 1234",
+        "location": "Jyväskylä, Finland",
+        "linkedin": "linkedin.com/in/petrisalo",
+        "github": "github.com/psalos"
+      },
+      "summary": "Frontend developer with 6 years of experience in React, Vue.js, and modern web technologies.",
+      "skills": {
+        "technical": [
+          "React",
+          "Vue.js",
+          "TypeScript",
+          "JavaScript",
+          "CSS",
+          "HTML",
+          "Webpack",
+          "Jest",
+          "Cypress"
+        ],
+        "soft": [
+          "Attention to detail",
+          "Collaboration",
+          "User focus",
+          "Agile"
+        ]
+      },
+      "experience": [
+        {
+          "title": "Frontend Developer",
+          "company": "Web Development Studio",
+          "location": "Jyväskylä, Finland",
+          "start_date": "2018-07",
+          "end_date": null,
+          "current": true,
+          "description": "Building responsive web applications.",
+          "responsibilities": [
+            "Developed 20+ React applications",
+            "Implemented responsive designs from Figma mockups",
+            "Improved application performance by 40%"
+          ],
+          "technologies": [
+            "React",
+            "TypeScript",
+            "CSS",
+            "Jest",
+            "Webpack"
+          ]
+        }
+      ],
+      "education": [
+        {
+          "degree": "B.Sc. in Information Systems",
+          "institution": "University of Jyväskylä",
+          "location": "Jyväskylä, Finland",
+          "graduation_date": "2018-05"
+        }
+      ],
+      "certifications": [],
+      "languages": [
+        {
+          "language": "Finnish",
+          "proficiency": "Native"
+        },
+        {
+          "language": "English",
+          "proficiency": "Fluent"
+        }
+      ]
+    },
+    {
+      "id": "cv_009",
+      "personal_info": {
+        "name": "Katri Heikkinen",
+        "email": "katri.heikkinen@example.com",
+        "phone": "+358 45 901 2345",
+        "location": "Helsinki, Finland",
+        "linkedin": "linkedin.com/in/katriheikkinen"
+      },
+      "summary": "Business analyst with 7 years of experience bridging business and technology in digital projects.",
+      "skills": {
+        "technical": [
+          "SQL",
+          "Tableau",
+          "Power BI",
+          "Excel",
+          "Jira",
+          "UML",
+          "Business process modeling"
+        ],
+        "soft": [
+          "Requirements gathering",
+          "Stakeholder communication",
+          "Problem-solving",
+          "Documentation"
+        ]
+      },
+      "experience": [
+        {
+          "title": "Senior Business Analyst",
+          "company": "Financial Services Corp",
+          "location": "Helsinki, Finland",
+          "start_date": "2019-02",
+          "end_date": null,
+          "current": true,
+          "description": "Analyzing business requirements for digital transformation.",
+          "responsibilities": [
+            "Gathered and documented requirements for 15+ projects",
+            "Created data visualizations for stakeholder reporting",
+            "Facilitated workshops with business and IT teams"
+          ],
+          "technologies": [
+            "SQL",
+            "Tableau",
+            "Jira",
+            "Confluence"
+          ]
+        }
+      ],
+      "education": [
+        {
+          "degree": "M.Sc. in Information Systems Science",
+          "institution": "Hanken School of Economics",
+          "location": "Helsinki, Finland",
+          "graduation_date": "2017-05"
+        }
+      ],
+      "certifications": [
+        {
+          "name": "CBAP - Certified Business Analysis Professional",
+          "issuer": "IIBA",
+          "date": "2020-06"
+        }
+      ],
+      "languages": [
+        {
+          "language": "Finnish",
+          "proficiency": "Native"
+        },
+        {
+          "language": "English",
+          "proficiency": "Fluent"
+        },
+        {
+          "language": "Swedish",
+          "proficiency": "Intermediate"
+        }
+      ]
+    },
+    {
+      "id": "cv_010",
+      "personal_info": {
+        "name": "Ville Virtanen",
+        "email": "ville.virtanen@example.com",
+        "phone": "+358 40 012 3456",
+        "location": "Tampere, Finland",
+        "linkedin": "linkedin.com/in/villevirtanen",
+        "github": "github.com/vvirtanen"
+      },
+      "summary": "Mobile developer with 5 years of experience building iOS and Android applications.",
+      "skills": {
+        "technical": [
+          "Swift",
+          "Kotlin",
+          "React Native",
+          "iOS",
+          "Android",
+          "REST APIs",
+          "Git",
+          "Firebase"
+        ],
+        "soft": [
+          "User-centered design",
+          "Testing",
+          "Collaboration",
+          "Problem-solving"
+        ]
+      },
+      "experience": [
+        {
+          "title": "Mobile Developer",
+          "company": "Mobile Apps Ltd",
+          "location": "Tampere, Finland",
+          "start_date": "2019-09",
+          "end_date": null,
+          "current": true,
+          "description": "Developing native and cross-platform mobile applications.",
+          "responsibilities": [
+            "Built 10+ mobile apps with 100k+ downloads",
+            "Implemented push notifications and analytics",
+            "Maintained 4.5+ star rating on app stores"
+          ],
+          "technologies": [
+            "Swift",
+            "Kotlin",
+            "React Native",
+            "Firebase"
+          ]
+        }
+      ],
+      "education": [
+        {
+          "degree": "B.Sc. in Software Engineering",
+          "institution": "Tampere University",
+          "location": "Tampere, Finland",
+          "graduation_date": "2019-06"
+        }
+      ],
+      "certifications": [],
+      "languages": [
+        {
+          "language": "Finnish",
+          "proficiency": "Native"
+        },
+        {
+          "language": "English",
+          "proficiency": "Fluent"
+        }
+      ]
+    },
+    {
+      "id": "cv_011",
+      "personal_info": {
+        "name": "Minna Koskinen",
+        "email": "minna.koskinen@example.com",
+        "phone": "+358 50 123 4567",
+        "location": "Helsinki, Finland",
+        "linkedin": "linkedin.com/in/minnakoskinen"
+      },
+      "summary": "Cybersecurity specialist with 6 years of experience in security architecture and penetration testing.",
+      "skills": {
+        "technical": [
+          "Penetration testing",
+          "Security architecture",
+          "AWS Security",
+          "SIEM",
+          "Wireshark",
+          "Metasploit",
+          "Python"
+        ],
+        "soft": [
+          "Risk assessment",
+          "Communication",
+          "Compliance",
+          "Training"
+        ]
+      },
+      "experience": [
+        {
+          "title": "Security Consultant",
+          "company": "CyberSec Solutions",
+          "location": "Helsinki, Finland",
+          "start_date": "2020-01",
+          "end_date": null,
+          "current": true,
+          "description": "Providing security assessments and consulting.",
+          "responsibilities": [
+            "Conducted 30+ penetration tests",
+            "Designed security architectures for enterprise clients",
+            "Trained developers on secure coding practices"
+          ],
+          "technologies": [
+            "Kali Linux",
+            "Burp Suite",
+            "AWS",
+            "Python"
+          ]
+        }
+      ],
+      "education": [
+        {
+          "degree": "M.Sc. in Cybersecurity",
+          "institution": "University of Helsinki",
+          "location": "Helsinki, Finland",
+          "graduation_date": "2018-12"
+        }
+      ],
+      "certifications": [
+        {
+          "name": "CISSP",
+          "issuer": "ISC2",
+          "date": "2021-05"
+        },
+        {
+          "name": "CEH - Certified Ethical Hacker",
+          "issuer": "EC-Council",
+          "date": "2019-08"
+        }
+      ],
+      "languages": [
+        {
+          "language": "Finnish",
+          "proficiency": "Native"
+        },
+        {
+          "language": "English",
+          "proficiency": "Fluent"
+        }
+      ]
+    },
+    {
+      "id": "cv_012",
+      "personal_info": {
+        "name": "Tuomas Lehto",
+        "email": "tuomas.lehto@example.com",
+        "phone": "+358 45 234 5678",
+        "location": "Espoo, Finland",
+        "linkedin": "linkedin.com/in/tuomaslehto",
+        "github": "github.com/tlehto"
+      },
+      "summary": "Solutions architect with 9 years of experience designing scalable cloud-based systems.",
+      "skills": {
+        "technical": [
+          "AWS",
+          "Azure",
+          "Microservices",
+          "System design",
+          "Docker",
+          "Kubernetes",
+          "Terraform",
+          "Python",
+          "Java"
+        ],
+        "soft": [
+          "Technical leadership",
+          "Architecture design",
+          "Stakeholder communication",
+          "Mentoring"
+        ]
+      },
+      "experience": [
+        {
+          "title": "Solutions Architect",
+          "company": "Enterprise Cloud Services",
+          "location": "Espoo, Finland",
+          "start_date": "2019-04",
+          "end_date": null,
+          "current": true,
+          "description": "Architecting enterprise cloud solutions.",
+          "responsibilities": [
+            "Designed architecture for 20+ cloud migration projects",
+            "Led technical teams of 8-12 developers",
+            "Reduced infrastructure costs by 35% through optimization"
+          ],
+          "technologies": [
+            "AWS",
+            "Azure",
+            "Kubernetes",
+            "Terraform"
+          ]
+        }
+      ],
+      "education": [
+        {
+          "degree": "M.Sc. in Computer Science",
+          "institution": "Aalto University",
+          "location": "Espoo, Finland",
+          "graduation_date": "2015-05"
+        }
+      ],
+      "certifications": [
+        {
+          "name": "AWS Certified Solutions Architect - Professional",
+          "issuer": "Amazon Web Services",
+          "date": "2020-11"
+        }
+      ],
+      "languages": [
+        {
+          "language": "Finnish",
+          "proficiency": "Native"
+        },
+        {
+          "language": "English",
+          "proficiency": "Fluent"
+        }
+      ]
+    },
+    {
+      "id": "cv_013",
+      "personal_info": {
+        "name": "Anni Mäkelä",
+        "email": "anni.makela@example.com",
+        "phone": "+358 40 345 6789",
+        "location": "Oulu, Finland",
+        "linkedin": "linkedin.com/in/annimakela"
+      },
+      "summary": "Quality assurance engineer with 5 years of experience in test automation and quality processes.",
+      "skills": {
+        "technical": [
+          "Selenium",
+          "Cypress",
+          "Jest",
+          "Python",
+          "Java",
+          "Jenkins",
+          "Git",
+          "API testing",
+          "Postman"
+        ],
+        "soft": [
+          "Attention to detail",
+          "Test planning",
+          "Bug tracking",
+          "Process improvement"
+        ]
+      },
+      "experience": [
+        {
+          "title": "QA Engineer",
+          "company": "Software Quality Inc",
+          "location": "Oulu, Finland",
+          "start_date": "2019-08",
+          "end_date": null,
+          "current": true,
+          "description": "Ensuring software quality through automated testing.",
+          "responsibilities": [
+            "Implemented automated test suites reducing testing time by 60%",
+            "Managed test environments and CI/CD integration",
+            "Mentored junior QA engineers"
+          ],
+          "technologies": [
+            "Selenium",
+            "Cypress",
+            "Python",
+            "Jenkins"
+          ]
+        }
+      ],
+      "education": [
+        {
+          "degree": "B.Sc. in Information Processing Science",
+          "institution": "University of Oulu",
+          "location": "Oulu, Finland",
+          "graduation_date": "2019-05"
+        }
+      ],
+      "certifications": [
+        {
+          "name": "ISTQB Certified Tester - Advanced Level",
+          "issuer": "ISTQB",
+          "date": "2021-03"
+        }
+      ],
+      "languages": [
+        {
+          "language": "Finnish",
+          "proficiency": "Native"
+        },
+        {
+          "language": "English",
+          "proficiency": "Fluent"
+        }
+      ]
+    },
+    {
+      "id": "cv_014",
+      "personal_info": {
+        "name": "Aleksi Rantanen",
+        "email": "aleksi.rantanen@example.com",
+        "phone": "+358 50 456 7890",
+        "location": "Helsinki, Finland",
+        "linkedin": "linkedin.com/in/aleksirantanen",
+        "github": "github.com/arantanen"
+      },
+      "summary": "Product owner with 6 years of experience managing B2B SaaS products.",
+      "skills": {
+        "technical": [
+          "Jira",
+          "Product management tools",
+          "Analytics",
+          "SQL",
+          "A/B testing"
+        ],
+        "soft": [
+          "Product strategy",
+          "Stakeholder management",
+          "Prioritization",
+          "User research",
+          "Communication"
+        ]
+      },
+      "experience": [
+        {
+          "title": "Product Owner",
+          "company": "SaaS Platform Ltd",
+          "location": "Helsinki, Finland",
+          "start_date": "2020-03",
+          "end_date": null,
+          "current": true,
+          "description": "Managing product development for enterprise SaaS.",
+          "responsibilities": [
+            "Defined product roadmap serving 500+ enterprise customers",
+            "Increased user engagement by 45% through feature optimization",
+            "Led cross-functional team of 12 people"
+          ],
+          "technologies": [
+            "Jira",
+            "Confluence",
+            "Mixpanel",
+            "SQL"
+          ]
+        }
+      ],
+      "education": [
+        {
+          "degree": "M.Sc. in Technology Management",
+          "institution": "Aalto University",
+          "location": "Espoo, Finland",
+          "graduation_date": "2018-06"
+        }
+      ],
+      "certifications": [
+        {
+          "name": "Certified Scrum Product Owner",
+          "issuer": "Scrum Alliance",
+          "date": "2019-09"
+        }
+      ],
+      "languages": [
+        {
+          "language": "Finnish",
+          "proficiency": "Native"
+        },
+        {
+          "language": "English",
+          "proficiency": "Fluent"
+        }
+      ]
+    },
+    {
+      "id": "cv_015",
+      "personal_info": {
+        "name": "Sanna Kivi",
+        "email": "sanna.kivi@example.com",
+        "phone": "+358 45 567 8901",
+        "location": "Turku, Finland",
+        "linkedin": "linkedin.com/in/sannakivi",
+        "github": "github.com/skivi"
+      },
+      "summary": "Data scientist with 5 years of experience in predictive modeling and statistical analysis.",
+      "skills": {
+        "technical": [
+          "Python",
+          "R",
+          "SQL",
+          "TensorFlow",
+          "Scikit-learn",
+          "Pandas",
+          "Jupyter",
+          "Statistics",
+          "Machine learning"
+        ],
+        "soft": [
+          "Research",
+          "Presentation",
+          "Problem-solving",
+          "Collaboration"
+        ]
+      },
+      "experience": [
+        {
+          "title": "Data Scientist",
+          "company": "Analytics Consulting",
+          "location": "Turku, Finland",
+          "start_date": "2019-10",
+          "end_date": null,
+          "current": true,
+          "description": "Building predictive models for business insights.",
+          "responsibilities": [
+            "Developed churn prediction model with 87% accuracy",
+            "Conducted statistical analysis for 15+ client projects",
+            "Presented findings to C-level executives"
+          ],
+          "technologies": [
+            "Python",
+            "R",
+            "TensorFlow",
+            "SQL",
+            "Jupyter"
+          ]
+        }
+      ],
+      "education": [
+        {
+          "degree": "Ph.D. in Applied Mathematics",
+          "institution": "University of Turku",
+          "location": "Turku, Finland",
+          "graduation_date": "2019-08"
+        }
+      ],
+      "certifications": [],
+      "languages": [
+        {
+          "language": "Finnish",
+          "proficiency": "Native"
+        },
+        {
+          "language": "English",
+          "proficiency": "Fluent"
+        }
+      ]
+    },
+    {
+      "id": "cv_016",
+      "personal_info": {
+        "name": "Eero Salonen",
+        "email": "eero.salonen@example.com",
+        "phone": "+358 40 678 9012",
+        "location": "Jyväskylä, Finland",
+        "linkedin": "linkedin.com/in/eerosalonen",
+        "github": "github.com/esalonen"
+      },
+      "summary": "Site reliability engineer with 4 years of experience in production systems and monitoring.",
+      "skills": {
+        "technical": [
+          "Linux",
+          "Kubernetes",
+          "Prometheus",
+          "Grafana",
+          "AWS",
+          "Python",
+          "Go",
+          "Terraform",
+          "Ansible"
+        ],
+        "soft": [
+          "Incident management",
+          "On-call support",
+          "Problem-solving",
+          "Documentation"
+        ]
+      },
+      "experience": [
+        {
+          "title": "Site Reliability Engineer",
+          "company": "Tech Infrastructure Co",
+          "location": "Jyväskylä, Finland",
+          "start_date": "2020-06",
+          "end_date": null,
+          "current": true,
+          "description": "Ensuring reliability and performance of production systems.",
+          "responsibilities": [
+            "Achieved 99.95% uptime for critical services",
+            "Implemented comprehensive monitoring and alerting",
+            "Reduced MTTR by 50% through automation"
+          ],
+          "technologies": [
+            "Kubernetes",
+            "Prometheus",
+            "Grafana",
+            "AWS",
+            "Python"
+          ]
+        }
+      ],
+      "education": [
+        {
+          "degree": "M.Sc. in Computer Science",
+          "institution": "University of Jyväskylä",
+          "location": "Jyväskylä, Finland",
+          "graduation_date": "2020-05"
+        }
+      ],
+      "certifications": [],
+      "languages": [
+        {
+          "language": "Finnish",
+          "proficiency": "Native"
+        },
+        {
+          "language": "English",
+          "proficiency": "Fluent"
+        }
+      ]
+    },
+    {
+      "id": "cv_017",
+      "personal_info": {
+        "name": "Riikka Ahonen",
+        "email": "riikka.ahonen@example.com",
+        "phone": "+358 50 789 0123",
+        "location": "Helsinki, Finland",
+        "linkedin": "linkedin.com/in/riikkaahonen"
+      },
+      "summary": "Service designer with 7 years of experience creating customer-centered service experiences.",
+      "skills": {
+        "technical": [
+          "Service design",
+          "Journey mapping",
+          "Prototyping",
+          "User research",
+          "Workshop facilitation",
+          "Miro",
+          "Figma"
+        ],
+        "soft": [
+          "Empathy",
+          "Facilitation",
+          "Storytelling",
+          "Collaboration",
+          "Design thinking"
+        ]
+      },
+      "experience": [
+        {
+          "title": "Senior Service Designer",
+          "company": "Design Consultancy",
+          "location": "Helsinki, Finland",
+          "start_date": "2019-01",
+          "end_date": null,
+          "current": true,
+          "description": "Designing end-to-end service experiences.",
+          "responsibilities": [
+            "Led service design projects for public and private sector clients",
+            "Facilitated 50+ co-creation workshops",
+            "Created service blueprints and journey maps"
+          ],
+          "technologies": [
+            "Miro",
+            "Figma",
+            "Service design tools"
+          ]
+        }
+      ],
+      "education": [
+        {
+          "degree": "M.A. in Design",
+          "institution": "Aalto University",
+          "location": "Espoo, Finland",
+          "graduation_date": "2017-06"
+        }
+      ],
+      "certifications": [],
+      "languages": [
+        {
+          "language": "Finnish",
+          "proficiency": "Native"
+        },
+        {
+          "language": "English",
+          "proficiency": "Fluent"
+        },
+        {
+          "language": "Swedish",
+          "proficiency": "Intermediate"
+        }
+      ]
+    },
+    {
+      "id": "cv_018",
+      "personal_info": {
+        "name": "Markku Järvinen",
+        "email": "markku.jarvinen@example.com",
+        "phone": "+358 45 890 1234",
+        "location": "Tampere, Finland",
+        "linkedin": "linkedin.com/in/markkujarvinen",
+        "github": "github.com/mjarvinen"
+      },
+      "summary": "Database administrator with 8 years of experience managing enterprise databases.",
+      "skills": {
+        "technical": [
+          "PostgreSQL",
+          "MySQL",
+          "Oracle",
+          "MongoDB",
+          "Database tuning",
+          "Backup/recovery",
+          "SQL",
+          "Python",
+          "Linux"
+        ],
+        "soft": [
+          "Problem-solving",
+          "Performance optimization",
+          "Documentation",
+          "On-call support"
+        ]
+      },
+      "experience": [
+        {
+          "title": "Senior Database Administrator",
+          "company": "Enterprise Systems Ltd",
+          "location": "Tampere, Finland",
+          "start_date": "2017-04",
+          "end_date": null,
+          "current": true,
+          "description": "Managing mission-critical database systems.",
+          "responsibilities": [
+            "Managed 100+ production databases",
+            "Improved query performance by 70% through optimization",
+            "Implemented automated backup and monitoring solutions"
+          ],
+          "technologies": [
+            "PostgreSQL",
+            "MySQL",
+            "Python",
+            "Linux"
+          ]
+        }
+      ],
+      "education": [
+        {
+          "degree": "B.Sc. in Information Technology",
+          "institution": "Tampere University",
+          "location": "Tampere, Finland",
+          "graduation_date": "2016-12"
+        }
+      ],
+      "certifications": [
+        {
+          "name": "Oracle Certified Professional",
+          "issuer": "Oracle",
+          "date": "2019-05"
+        }
+      ],
+      "languages": [
+        {
+          "language": "Finnish",
+          "proficiency": "Native"
+        },
+        {
+          "language": "English",
+          "proficiency": "Fluent"
+        }
+      ]
+    },
+    {
+      "id": "cv_019",
+      "personal_info": {
+        "name": "Elina Marttila",
+        "email": "elina.marttila@example.com",
+        "phone": "+358 40 901 2345",
+        "location": "Espoo, Finland",
+        "linkedin": "linkedin.com/in/elinamarttila"
+      },
+      "summary": "Technical writer with 5 years of experience creating documentation for software products.",
+      "skills": {
+        "technical": [
+          "Technical writing",
+          "Documentation",
+          "Markdown",
+          "Git",
+          "API documentation",
+          "MadCap Flare",
+          "Confluence"
+        ],
+        "soft": [
+          "Communication",
+          "Simplifying complexity",
+          "Attention to detail",
+          "User empathy"
+        ]
+      },
+      "experience": [
+        {
+          "title": "Technical Writer",
+          "company": "Software Documentation Inc",
+          "location": "Espoo, Finland",
+          "start_date": "2019-07",
+          "end_date": null,
+          "current": true,
+          "description": "Creating user and developer documentation.",
+          "responsibilities": [
+            "Wrote documentation for 10+ software products",
+            "Created API documentation and developer guides",
+            "Improved documentation feedback scores by 40%"
+          ],
+          "technologies": [
+            "Markdown",
+            "Git",
+            "Confluence",
+            "MadCap Flare"
+          ]
+        }
+      ],
+      "education": [
+        {
+          "degree": "M.A. in English Language and Literature",
+          "institution": "University of Helsinki",
+          "location": "Helsinki, Finland",
+          "graduation_date": "2019-05"
+        }
+      ],
+      "certifications": [],
+      "languages": [
+        {
+          "language": "Finnish",
+          "proficiency": "Native"
+        },
+        {
+          "language": "English",
+          "proficiency": "Native"
+        }
+      ]
+    },
+    {
+      "id": "cv_020",
+      "personal_info": {
+        "name": "Juha Nieminen",
+        "email": "juha.nieminen@example.com",
+        "phone": "+358 50 012 3456",
+        "location": "Oulu, Finland",
+        "linkedin": "linkedin.com/in/juhanieminen",
+        "github": "github.com/jnieminen"
+      },
+      "summary": "Embedded systems engineer with 6 years of experience in IoT and firmware development.",
+      "skills": {
+        "technical": [
+          "C",
+          "C++",
+          "Python",
+          "Embedded Linux",
+          "RTOS",
+          "ARM",
+          "IoT",
+          "MQTT",
+          "Bluetooth",
+          "WiFi"
+        ],
+        "soft": [
+          "Hardware-software integration",
+          "Debugging",
+          "Problem-solving",
+          "Documentation"
+        ]
+      },
+      "experience": [
+        {
+          "title": "Embedded Software Engineer",
+          "company": "IoT Devices Corp",
+          "location": "Oulu, Finland",
+          "start_date": "2018-08",
+          "end_date": null,
+          "current": true,
+          "description": "Developing firmware for IoT devices.",
+          "responsibilities": [
+            "Developed firmware for 5 IoT product lines",
+            "Implemented BLE and WiFi connectivity",
+            "Optimized power consumption by 50%"
+          ],
+          "technologies": [
+            "C",
+            "C++",
+            "Embedded Linux",
+            "MQTT",
+            "ARM"
+          ]
+        }
+      ],
+      "education": [
+        {
+          "degree": "M.Sc. in Electrical Engineering",
+          "institution": "University of Oulu",
+          "location": "Oulu, Finland",
+          "graduation_date": "2018-06"
+        }
+      ],
+      "certifications": [],
+      "languages": [
+        {
+          "language": "Finnish",
+          "proficiency": "Native"
+        },
+        {
+          "language": "English",
+          "proficiency": "Fluent"
+        }
+      ]
+    },
+    {
+      "id": "cv_021",
+      "personal_info": {
+        "name": "Kaisa Lehtonen",
+        "email": "kaisa.lehtonen@example.com",
+        "phone": "+358 45 123 4567",
+        "location": "Helsinki, Finland",
+        "linkedin": "linkedin.com/in/kaisalehtonen"
+      },
+      "summary": "Scrum master with 6 years of experience facilitating agile teams and driving continuous improvement.",
+      "skills": {
+        "technical": [
+          "Scrum",
+          "Kanban",
+          "Jira",
+          "Confluence",
+          "Agile coaching",
+          "SAFe"
+        ],
+        "soft": [
+          "Facilitation",
+          "Servant leadership",
+          "Conflict resolution",
+          "Team building",
+          "Communication"
+        ]
+      },
+      "experience": [
+        {
+          "title": "Scrum Master",
+          "company": "Agile Software House",
+          "location": "Helsinki, Finland",
+          "start_date": "2019-05",
+          "end_date": null,
+          "current": true,
+          "description": "Facilitating multiple agile teams.",
+          "responsibilities": [
+            "Facilitated 3 scrum teams of 25+ people total",
+            "Improved team velocity by 35%",
+            "Coached teams on agile practices and continuous improvement"
+          ],
+          "technologies": [
+            "Jira",
+            "Confluence",
+            "Miro"
+          ]
+        }
+      ],
+      "education": [
+        {
+          "degree": "M.Sc. in Industrial Management",
+          "institution": "Aalto University",
+          "location": "Espoo, Finland",
+          "graduation_date": "2018-06"
+        }
+      ],
+      "certifications": [
+        {
+          "name": "Certified Scrum Master",
+          "issuer": "Scrum Alliance",
+          "date": "2018-09"
+        },
+        {
+          "name": "SAFe Agilist",
+          "issuer": "Scaled Agile",
+          "date": "2020-11"
+        }
+      ],
+      "languages": [
+        {
+          "language": "Finnish",
+          "proficiency": "Native"
+        },
+        {
+          "language": "English",
+          "proficiency": "Fluent"
+        }
+      ]
+    },
+    {
+      "id": "cv_022",
+      "personal_info": {
+        "name": "Timo Kallio",
+        "email": "timo.kallio@example.com",
+        "phone": "+358 40 234 5678",
+        "location": "Turku, Finland",
+        "linkedin": "linkedin.com/in/timokallio",
+        "github": "github.com/tkallio"
+      },
+      "summary": "Integration specialist with 7 years of experience in API design and system integrations.",
+      "skills": {
+        "technical": [
+          "REST APIs",
+          "SOAP",
+          "GraphQL",
+          "MuleSoft",
+          "API Gateway",
+          "ESB",
+          "JSON",
+          "XML",
+          "Java",
+          "Node.js"
+        ],
+        "soft": [
+          "System design",
+          "Problem-solving",
+          "Documentation",
+          "Stakeholder communication"
+        ]
+      },
+      "experience": [
+        {
+          "title": "Integration Specialist",
+          "company": "Integration Solutions Ltd",
+          "location": "Turku, Finland",
+          "start_date": "2018-03",
+          "end_date": null,
+          "current": true,
+          "description": "Designing and implementing system integrations.",
+          "responsibilities": [
+            "Designed 30+ API integrations",
+            "Implemented MuleSoft-based integration platform",
+            "Reduced integration development time by 50%"
+          ],
+          "technologies": [
+            "REST",
+            "GraphQL",
+            "MuleSoft",
+            "Java",
+            "Node.js"
+          ]
+        }
+      ],
+      "education": [
+        {
+          "degree": "M.Sc. in Information Systems",
+          "institution": "University of Turku",
+          "location": "Turku, Finland",
+          "graduation_date": "2017-12"
+        }
+      ],
+      "certifications": [
+        {
+          "name": "MuleSoft Certified Developer",
+          "issuer": "MuleSoft",
+          "date": "2020-06"
+        }
+      ],
+      "languages": [
+        {
+          "language": "Finnish",
+          "proficiency": "Native"
+        },
+        {
+          "language": "English",
+          "proficiency": "Fluent"
+        }
+      ]
+    },
+    {
+      "id": "cv_023",
+      "personal_info": {
+        "name": "Pauliina Saarinen",
+        "email": "pauliina.saarinen@example.com",
+        "phone": "+358 50 345 6789",
+        "location": "Helsinki, Finland",
+        "linkedin": "linkedin.com/in/pauliinasaarinen"
+      },
+      "summary": "Digital marketing specialist with 5 years of experience in SEO, SEM, and analytics.",
+      "skills": {
+        "technical": [
+          "Google Analytics",
+          "Google Ads",
+          "SEO",
+          "SEM",
+          "Content marketing",
+          "Social media",
+          "HubSpot"
+        ],
+        "soft": [
+          "Strategy",
+          "Creativity",
+          "Data analysis",
+          "Communication",
+          "Campaign management"
+        ]
+      },
+      "experience": [
+        {
+          "title": "Digital Marketing Specialist",
+          "company": "Marketing Agency",
+          "location": "Helsinki, Finland",
+          "start_date": "2019-09",
+          "end_date": null,
+          "current": true,
+          "description": "Managing digital marketing campaigns.",
+          "responsibilities": [
+            "Managed SEO/SEM campaigns with €500k annual budget",
+            "Increased organic traffic by 120%",
+            "Improved conversion rates by 45%"
+          ],
+          "technologies": [
+            "Google Analytics",
+            "Google Ads",
+            "HubSpot"
+          ]
+        }
+      ],
+      "education": [
+        {
+          "degree": "M.Sc. in Marketing",
+          "institution": "Hanken School of Economics",
+          "location": "Helsinki, Finland",
+          "graduation_date": "2019-06"
+        }
+      ],
+      "certifications": [
+        {
+          "name": "Google Analytics Certification",
+          "issuer": "Google",
+          "date": "2020-03"
+        }
+      ],
+      "languages": [
+        {
+          "language": "Finnish",
+          "proficiency": "Native"
+        },
+        {
+          "language": "English",
+          "proficiency": "Fluent"
+        },
+        {
+          "language": "Swedish",
+          "proficiency": "Intermediate"
+        }
+      ]
+    },
+    {
+      "id": "cv_024",
+      "personal_info": {
+        "name": "Olli Virtanen",
+        "email": "olli.virtanen@example.com",
+        "phone": "+358 45 456 7890",
+        "location": "Tampere, Finland",
+        "linkedin": "linkedin.com/in/ollivirtanen",
+        "github": "github.com/ovirtanen"
+      },
+      "summary": "Game developer with 4 years of experience in Unity and Unreal Engine.",
+      "skills": {
+        "technical": [
+          "Unity",
+          "Unreal Engine",
+          "C#",
+          "C++",
+          "3D modeling",
+          "Game design",
+          "Shader programming"
+        ],
+        "soft": [
+          "Creativity",
+          "Problem-solving",
+          "Collaboration",
+          "Prototyping"
+        ]
+      },
+      "experience": [
+        {
+          "title": "Game Developer",
+          "company": "Indie Game Studio",
+          "location": "Tampere, Finland",
+          "start_date": "2020-06",
+          "end_date": null,
+          "current": true,
+          "description": "Developing mobile and PC games.",
+          "responsibilities": [
+            "Developed 3 published games",
+            "Implemented gameplay mechanics and UI",
+            "Optimized performance for mobile platforms"
+          ],
+          "technologies": [
+            "Unity",
+            "C#",
+            "Blender"
+          ]
+        }
+      ],
+      "education": [
+        {
+          "degree": "B.Sc. in Game Development",
+          "institution": "Tampere University of Applied Sciences",
+          "location": "Tampere, Finland",
+          "graduation_date": "2020-05"
+        }
+      ],
+      "certifications": [],
+      "languages": [
+        {
+          "language": "Finnish",
+          "proficiency": "Native"
+        },
+        {
+          "language": "English",
+          "proficiency": "Fluent"
+        }
+      ]
+    },
+    {
+      "id": "cv_025",
+      "personal_info": {
+        "name": "Maria Toivonen",
+        "email": "maria.toivonen@example.com",
+        "phone": "+358 40 567 8901",
+        "location": "Espoo, Finland",
+        "linkedin": "linkedin.com/in/mariatoivonen"
+      },
+      "summary": "Enterprise architect with 11 years of experience in IT strategy and architecture frameworks.",
+      "skills": {
+        "technical": [
+          "TOGAF",
+          "ArchiMate",
+          "Enterprise architecture",
+          "Cloud strategy",
+          "IT governance",
+          "Business architecture"
+        ],
+        "soft": [
+          "Strategic thinking",
+          "Stakeholder management",
+          "Leadership",
+          "Communication",
+          "Change management"
+        ]
+      },
+      "experience": [
+        {
+          "title": "Enterprise Architect",
+          "company": "Large Enterprise Corp",
+          "location": "Espoo, Finland",
+          "start_date": "2017-01",
+          "end_date": null,
+          "current": true,
+          "description": "Defining enterprise IT architecture and strategy.",
+          "responsibilities": [
+            "Led digital transformation architecture for organization of 5000+ employees",
+            "Defined cloud adoption strategy",
+            "Managed architecture governance and review processes"
+          ],
+          "technologies": [
+            "TOGAF",
+            "ArchiMate",
+            "AWS",
+            "Azure"
+          ]
+        }
+      ],
+      "education": [
+        {
+          "degree": "M.Sc. in Information Networks",
+          "institution": "Aalto University",
+          "location": "Espoo, Finland",
+          "graduation_date": "2013-06"
+        }
+      ],
+      "certifications": [
+        {
+          "name": "TOGAF 9 Certified",
+          "issuer": "The Open Group",
+          "date": "2015-04"
+        }
+      ],
+      "languages": [
+        {
+          "language": "Finnish",
+          "proficiency": "Native"
+        },
+        {
+          "language": "English",
+          "proficiency": "Fluent"
+        },
+        {
+          "language": "Swedish",
+          "proficiency": "Fluent"
+        }
+      ]
+    },
+    {
+      "id": "cv_026",
+      "personal_info": {
+        "name": "Sami Rantala",
+        "email": "sami.rantala@example.com",
+        "phone": "+358 50 678 9012",
+        "location": "Helsinki, Finland",
+        "linkedin": "linkedin.com/in/samirantala",
+        "github": "github.com/srantala"
+      },
+      "summary": "Blockchain developer with 3 years of experience in smart contracts and DeFi applications.",
+      "skills": {
+        "technical": [
+          "Solidity",
+          "Ethereum",
+          "Web3.js",
+          "Hardhat",
+          "Truffle",
+          "JavaScript",
+          "Node.js",
+          "React"
+        ],
+        "soft": [
+          "Research",
+          "Problem-solving",
+          "Security mindset",
+          "Collaboration"
+        ]
+      },
+      "experience": [
+        {
+          "title": "Blockchain Developer",
+          "company": "Crypto Startup",
+          "location": "Helsinki, Finland",
+          "start_date": "2021-08",
+          "end_date": null,
+          "current": true,
+          "description": "Developing smart contracts and DeFi protocols.",
+          "responsibilities": [
+            "Developed smart contracts managing $10M+ in assets",
+            "Conducted security audits and testing",
+            "Built DeFi frontend applications"
+          ],
+          "technologies": [
+            "Solidity",
+            "Ethereum",
+            "Web3.js",
+            "React"
+          ]
+        }
+      ],
+      "education": [
+        {
+          "degree": "M.Sc. in Computer Science",
+          "institution": "University of Helsinki",
+          "location": "Helsinki, Finland",
+          "graduation_date": "2021-05"
+        }
+      ],
+      "certifications": [],
+      "languages": [
+        {
+          "language": "Finnish",
+          "proficiency": "Native"
+        },
+        {
+          "language": "English",
+          "proficiency": "Fluent"
+        }
+      ]
+    },
+    {
+      "id": "cv_027",
+      "personal_info": {
+        "name": "Jenni Haapala",
+        "email": "jenni.haapala@example.com",
+        "phone": "+358 45 789 0123",
+        "location": "Oulu, Finland",
+        "linkedin": "linkedin.com/in/jennihaapala"
+      },
+      "summary": "HR business partner with 8 years of experience in talent management and organizational development.",
+      "skills": {
+        "technical": [
+          "HR systems",
+          "Recruitment",
+          "Performance management",
+          "Workday",
+          "BambooHR"
+        ],
+        "soft": [
+          "Communication",
+          "Coaching",
+          "Conflict resolution",
+          "Change management",
+          "Organizational development"
+        ]
+      },
+      "experience": [
+        {
+          "title": "HR Business Partner",
+          "company": "Tech Company",
+          "location": "Oulu, Finland",
+          "start_date": "2018-09",
+          "end_date": null,
+          "current": true,
+          "description": "Supporting business units with HR strategy.",
+          "responsibilities": [
+            "Partnered with leadership team of 200+ employees",
+            "Managed talent acquisition and retention programs",
+            "Led organizational restructuring initiatives"
+          ],
+          "technologies": [
+            "Workday",
+            "LinkedIn Recruiter"
+          ]
+        }
+      ],
+      "education": [
+        {
+          "degree": "M.A. in Psychology",
+          "institution": "University of Oulu",
+          "location": "Oulu, Finland",
+          "graduation_date": "2016-06"
+        }
+      ],
+      "certifications": [
+        {
+          "name": "SHRM-CP",
+          "issuer": "SHRM",
+          "date": "2019-07"
+        }
+      ],
+      "languages": [
+        {
+          "language": "Finnish",
+          "proficiency": "Native"
+        },
+        {
+          "language": "English",
+          "proficiency": "Fluent"
+        }
+      ]
+    },
+    {
+      "id": "cv_028",
+      "personal_info": {
+        "name": "Kari Lahtinen",
+        "email": "kari.lahtinen@example.com",
+        "phone": "+358 40 890 1234",
+        "location": "Turku, Finland",
+        "linkedin": "linkedin.com/in/karilahtinen",
+        "github": "github.com/klahtinen"
+      },
+      "summary": "Network engineer with 9 years of experience in enterprise networking and security.",
+      "skills": {
+        "technical": [
+          "Cisco",
+          "Juniper",
+          "Network security",
+          "Firewalls",
+          "VPN",
+          "SD-WAN",
+          "BGP",
+          "OSPF",
+          "MPLS"
+        ],
+        "soft": [
+          "Troubleshooting",
+          "Documentation",
+          "Problem-solving",
+          "On-call support"
+        ]
+      },
+      "experience": [
+        {
+          "title": "Senior Network Engineer",
+          "company": "Telecom Services",
+          "location": "Turku, Finland",
+          "start_date": "2016-03",
+          "end_date": null,
+          "current": true,
+          "description": "Managing enterprise network infrastructure.",
+          "responsibilities": [
+            "Managed network serving 50+ locations",
+            "Implemented SD-WAN reducing costs by 40%",
+            "Maintained 99.9% network uptime"
+          ],
+          "technologies": [
+            "Cisco",
+            "Palo Alto",
+            "SD-WAN",
+            "BGP"
+          ]
+        }
+      ],
+      "education": [
+        {
+          "degree": "B.Sc. in Telecommunications",
+          "institution": "Turku University of Applied Sciences",
+          "location": "Turku, Finland",
+          "graduation_date": "2015-12"
+        }
+      ],
+      "certifications": [
+        {
+          "name": "CCNP - Cisco Certified Network Professional",
+          "issuer": "Cisco",
+          "date": "2018-09"
+        }
+      ],
+      "languages": [
+        {
+          "language": "Finnish",
+          "proficiency": "Native"
+        },
+        {
+          "language": "English",
+          "proficiency": "Fluent"
+        }
+      ]
+    },
+    {
+      "id": "cv_029",
+      "personal_info": {
+        "name": "Liisa Mäkinen",
+        "email": "liisa.makinen@example.com",
+        "phone": "+358 50 901 2345",
+        "location": "Helsinki, Finland",
+        "linkedin": "linkedin.com/in/liisamakinen"
+      },
+      "summary": "Content strategist with 6 years of experience in digital content and storytelling.",
+      "skills": {
+        "technical": [
+          "Content strategy",
+          "SEO",
+          "Content management systems",
+          "WordPress",
+          "Social media",
+          "Analytics"
+        ],
+        "soft": [
+          "Writing",
+          "Storytelling",
+          "Creativity",
+          "Strategy",
+          "Communication"
+        ]
+      },
+      "experience": [
+        {
+          "title": "Content Strategist",
+          "company": "Digital Agency",
+          "location": "Helsinki, Finland",
+          "start_date": "2019-04",
+          "end_date": null,
+          "current": true,
+          "description": "Creating content strategies for clients.",
+          "responsibilities": [
+            "Developed content strategies for 20+ clients",
+            "Increased engagement rates by 60%",
+            "Managed editorial calendars and content production"
+          ],
+          "technologies": [
+            "WordPress",
+            "Google Analytics",
+            "HubSpot"
+          ]
+        }
+      ],
+      "education": [
+        {
+          "degree": "M.A. in Communication",
+          "institution": "University of Helsinki",
+          "location": "Helsinki, Finland",
+          "graduation_date": "2018-12"
+        }
+      ],
+      "certifications": [],
+      "languages": [
+        {
+          "language": "Finnish",
+          "proficiency": "Native"
+        },
+        {
+          "language": "English",
+          "proficiency": "Fluent"
+        },
+        {
+          "language": "Swedish",
+          "proficiency": "Intermediate"
+        }
+      ]
+    },
+    {
+      "id": "cv_030",
+      "personal_info": {
+        "name": "Pekka Vuorinen",
+        "email": "pekka.vuorinen@example.com",
+        "phone": "+358 45 012 3456",
+        "location": "Jyväskylä, Finland",
+        "linkedin": "linkedin.com/in/pekkavuorinen",
+        "github": "github.com/pvuorinen"
+      },
+      "summary": "Cloud architect with 8 years of experience designing multi-cloud solutions.",
+      "skills": {
+        "technical": [
+          "AWS",
+          "Azure",
+          "GCP",
+          "Terraform",
+          "CloudFormation",
+          "Kubernetes",
+          "Docker",
+          "Python",
+          "Architecture design"
+        ],
+        "soft": [
+          "Technical leadership",
+          "Cost optimization",
+          "Security",
+          "Documentation",
+          "Mentoring"
+        ]
+      },
+      "experience": [
+        {
+          "title": "Cloud Architect",
+          "company": "Cloud Consulting Group",
+          "location": "Jyväskylä, Finland",
+          "start_date": "2018-02",
+          "end_date": null,
+          "current": true,
+          "description": "Architecting cloud solutions for enterprise clients.",
+          "responsibilities": [
+            "Designed cloud architectures for 25+ projects",
+            "Led multi-cloud migration initiatives",
+            "Reduced infrastructure costs by 45% through optimization"
+          ],
+          "technologies": [
+            "AWS",
+            "Azure",
+            "Terraform",
+            "Kubernetes"
+          ]
+        }
+      ],
+      "education": [
+        {
+          "degree": "M.Sc. in Information Technology",
+          "institution": "University of Jyväskylä",
+          "location": "Jyväskylä, Finland",
+          "graduation_date": "2016-06"
+        }
+      ],
+      "certifications": [
+        {
+          "name": "AWS Certified Solutions Architect - Professional",
+          "issuer": "Amazon Web Services",
+          "date": "2019-11"
+        },
+        {
+          "name": "Azure Solutions Architect Expert",
+          "issuer": "Microsoft",
+          "date": "2020-08"
+        }
+      ],
+      "languages": [
+        {
+          "language": "Finnish",
+          "proficiency": "Native"
+        },
+        {
+          "language": "English",
+          "proficiency": "Fluent"
+        }
+      ]
+    },
+    {
+      "id": "cv_031",
+      "personal_info": {
+        "name": "Jane Doe",
+        "email": "jane.doe@email.com",
+        "phone": "+1-555-0123",
+        "location": "San Francisco, USA",
+        "linkedin": "linkedin.com/in/janedoe",
+        "github": "github.com/janedoe"
+      },
+      "summary": "Full-stack software engineer with 5+ years of experience building scalable web applications.",
+      "skills": {
+        "technical": [
+          "Python",
+          "TypeScript",
+          "React",
+          "Node.js",
+          "PostgreSQL",
+          "Docker",
+          "AWS"
+        ],
+        "soft": [
+          "Leadership",
+          "Communication",
+          "Problem Solving",
+          "Agile"
+        ]
+      },
+      "experience": [
+        {
+          "title": "Senior Software Engineer",
+          "company": "TechCorp Inc.",
+          "location": "San Francisco, CA",
+          "start_date": "2022-03",
+          "end_date": null,
+          "current": true,
+          "description": "Led development of microservices architecture serving 1M+ users.",
+          "responsibilities": [
+            "Reduced API latency by 40%",
+            "Mentored 3 junior engineers"
+          ],
+          "technologies": [
+            "Python",
+            "TypeScript",
+            "React",
+            "AWS",
+            "Docker"
+          ]
+        },
+        {
+          "title": "Software Engineer",
+          "company": "StartupXYZ",
+          "location": "Remote",
+          "start_date": "2019-06",
+          "end_date": "2022-02",
+          "current": false,
+          "description": "Built and maintained full-stack features for SaaS platform.",
+          "responsibilities": [
+            "Delivered MVP in 3 months",
+            "Increased test coverage from 20% to 80%"
+          ],
+          "technologies": [
+            "Node.js",
+            "React",
+            "PostgreSQL"
+          ]
+        }
+      ],
+      "education": [
+        {
+          "degree": "B.Sc. in Computer Science",
+          "institution": "University of California, Berkeley",
+          "location": "Berkeley, CA",
+          "graduation_date": "2019-05"
+        }
+      ],
+      "certifications": [
+        {
+          "name": "AWS Certified Solutions Architect",
+          "issuer": "Amazon Web Services",
+          "date": "2023-01"
+        }
+      ],
+      "languages": [
+        {
+          "language": "English",
+          "proficiency": "Native"
+        },
+        {
+          "language": "Spanish",
+          "proficiency": "Intermediate"
+        }
+      ]
+    }
+  ]
+}

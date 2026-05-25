@@ -1,0 +1,38 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Candidate",
+  "type": "object",
+  "required": ["id", "personal_info", "summary", "skills"],
+  "properties": {
+    "id": { "type": "string" },
+    "personal_info": {
+      "type": "object",
+      "required": ["name", "location"],
+      "properties": {
+        "name": { "type": "string" },
+        "location": { "type": "string" },
+        "email": { "type": "string" }
+      }
+    },
+    "summary": { "type": "string" },
+    "skills": {
+      "type": "object",
+      "properties": {
+        "technical": { "type": "array", "items": { "type": "string" } },
+        "soft": { "type": "array", "items": { "type": "string" } }
+      }
+    },
+    "experience": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "title": { "type": "string" },
+          "company": { "type": "string" },
+          "description": { "type": "string" },
+          "technologies": { "type": "array", "items": { "type": "string" } }
+        }
+      }
+    }
+  }
+}

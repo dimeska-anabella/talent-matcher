@@ -1,0 +1,682 @@
+{
+  "jobs": [
+    {
+      "id": "job_001",
+      "title": "Senior Full-Stack Developer",
+      "company": {
+        "name": "Solita",
+        "location": "Helsinki, Finland",
+        "department": "Digital Experience"
+      },
+      "employment_type": "Full-time",
+      "work_arrangement": "Hybrid",
+      "posted_date": "2024-01-15",
+      "application_deadline": "2024-02-28",
+      "summary": "We are looking for an experienced full-stack developer to join our team working on digital transformation projects for large enterprises.",
+      "responsibilities": [
+        "Design and implement scalable web applications using modern frameworks",
+        "Collaborate with cross-functional teams including designers and product owners",
+        "Participate in code reviews and technical planning",
+        "Mentor junior developers and promote best practices",
+        "Work directly with clients to understand requirements and deliver solutions"
+      ],
+      "required_qualifications": {
+        "experience_years": 5,
+        "skills": [
+          "JavaScript/TypeScript",
+          "React or Vue.js",
+          "Node.js or Python",
+          "REST APIs",
+          "SQL databases"
+        ],
+        "education": "Bachelor's degree in Computer Science or equivalent experience",
+        "languages": [
+          "English"
+        ]
+      },
+      "preferred_qualifications": {
+        "skills": [
+          "AWS or Azure",
+          "Docker/Kubernetes",
+          "GraphQL",
+          "CI/CD",
+          "Agile/Scrum"
+        ],
+        "certifications": [
+          "Cloud certifications (AWS/Azure)"
+        ],
+        "languages": [
+          "Finnish",
+          "Swedish"
+        ]
+      },
+      "benefits": [
+        "Competitive salary",
+        "Flexible working hours",
+        "Professional development budget",
+        "Health insurance",
+        "Pension plan"
+      ],
+      "salary_range": {
+        "min": 50000,
+        "max": 75000,
+        "currency": "EUR",
+        "period": "annual"
+      }
+    },
+    {
+      "id": "job_002",
+      "title": "Data Engineer",
+      "company": {
+        "name": "Solita",
+        "location": "Tampere, Finland",
+        "department": "Data & Analytics"
+      },
+      "employment_type": "Full-time",
+      "work_arrangement": "Hybrid",
+      "posted_date": "2024-01-20",
+      "application_deadline": "2024-03-15",
+      "summary": "Join our data team to build scalable data pipelines and analytics solutions for enterprise clients.",
+      "responsibilities": [
+        "Design and implement data pipelines and ETL processes",
+        "Build and maintain data warehouses and lakes",
+        "Optimize data processing performance and costs",
+        "Collaborate with data scientists and analysts",
+        "Ensure data quality and governance"
+      ],
+      "required_qualifications": {
+        "experience_years": 4,
+        "skills": [
+          "Python",
+          "SQL",
+          "Apache Spark or similar",
+          "AWS or Azure",
+          "Data modeling"
+        ],
+        "education": "Bachelor's degree in Computer Science, Engineering or related field",
+        "languages": [
+          "English"
+        ]
+      },
+      "preferred_qualifications": {
+        "skills": [
+          "Airflow",
+          "Snowflake",
+          "Kafka",
+          "dbt",
+          "Terraform"
+        ],
+        "certifications": [
+          "AWS Certified Data Analytics",
+          "Azure Data Engineer"
+        ],
+        "languages": [
+          "Finnish"
+        ]
+      },
+      "benefits": [
+        "Competitive salary",
+        "Remote work options",
+        "Learning budget",
+        "Health benefits"
+      ],
+      "salary_range": {
+        "min": 45000,
+        "max": 65000,
+        "currency": "EUR",
+        "period": "annual"
+      }
+    },
+    {
+      "id": "job_003",
+      "title": "UX/UI Designer",
+      "company": {
+        "name": "Solita",
+        "location": "Helsinki, Finland",
+        "department": "Design"
+      },
+      "employment_type": "Full-time",
+      "work_arrangement": "Hybrid",
+      "posted_date": "2024-01-18",
+      "application_deadline": "2024-03-01",
+      "summary": "We're looking for a talented UX/UI designer to create user-centered digital experiences for our clients.",
+      "responsibilities": [
+        "Conduct user research and usability testing",
+        "Create wireframes, prototypes, and high-fidelity designs",
+        "Collaborate with developers and product owners",
+        "Maintain design systems and guidelines",
+        "Present design concepts to stakeholders"
+      ],
+      "required_qualifications": {
+        "experience_years": 3,
+        "skills": [
+          "Figma or Sketch",
+          "User research",
+          "Prototyping",
+          "Design systems",
+          "HTML/CSS basics"
+        ],
+        "education": "Bachelor's degree in Design or related field",
+        "languages": [
+          "English"
+        ]
+      },
+      "preferred_qualifications": {
+        "skills": [
+          "Accessibility",
+          "Design thinking",
+          "Animation",
+          "Frontend development"
+        ],
+        "certifications": [],
+        "languages": [
+          "Finnish",
+          "Swedish"
+        ]
+      },
+      "benefits": [
+        "Competitive salary",
+        "Design tools budget",
+        "Conference attendance",
+        "Flexible hours"
+      ],
+      "salary_range": {
+        "min": 40000,
+        "max": 60000,
+        "currency": "EUR",
+        "period": "annual"
+      }
+    },
+    {
+      "id": "job_004",
+      "title": "DevOps Engineer",
+      "company": {
+        "name": "Solita",
+        "location": "Oulu, Finland",
+        "department": "Cloud Infrastructure"
+      },
+      "employment_type": "Full-time",
+      "work_arrangement": "Remote",
+      "posted_date": "2024-01-22",
+      "application_deadline": "2024-03-10",
+      "summary": "Join our DevOps team to build and maintain cloud infrastructure and CI/CD pipelines.",
+      "responsibilities": [
+        "Design and implement CI/CD pipelines",
+        "Manage cloud infrastructure using IaC",
+        "Monitor and optimize system performance",
+        "Automate deployment processes",
+        "Ensure security and compliance"
+      ],
+      "required_qualifications": {
+        "experience_years": 4,
+        "skills": [
+          "Kubernetes",
+          "Docker",
+          "AWS or Azure",
+          "Terraform",
+          "CI/CD tools"
+        ],
+        "education": "Bachelor's degree in Computer Science or equivalent",
+        "languages": [
+          "English"
+        ]
+      },
+      "preferred_qualifications": {
+        "skills": [
+          "GitLab CI",
+          "Prometheus",
+          "Grafana",
+          "Ansible",
+          "Python"
+        ],
+        "certifications": [
+          "CKA",
+          "AWS DevOps Professional"
+        ],
+        "languages": [
+          "Finnish"
+        ]
+      },
+      "benefits": [
+        "Competitive salary",
+        "Full remote option",
+        "Certification support",
+        "Modern equipment"
+      ],
+      "salary_range": {
+        "min": 48000,
+        "max": 68000,
+        "currency": "EUR",
+        "period": "annual"
+      }
+    },
+    {
+      "id": "job_005",
+      "title": "Machine Learning Engineer",
+      "company": {
+        "name": "Solita",
+        "location": "Espoo, Finland",
+        "department": "AI & Innovation"
+      },
+      "employment_type": "Full-time",
+      "work_arrangement": "Hybrid",
+      "posted_date": "2024-01-25",
+      "application_deadline": "2024-03-20",
+      "summary": "Build and deploy machine learning models to solve real-world business problems.",
+      "responsibilities": [
+        "Develop and train ML models",
+        "Deploy models to production environments",
+        "Optimize model performance",
+        "Collaborate with data engineers and scientists",
+        "Monitor and maintain deployed models"
+      ],
+      "required_qualifications": {
+        "experience_years": 3,
+        "skills": [
+          "Python",
+          "TensorFlow or PyTorch",
+          "MLOps",
+          "Cloud platforms",
+          "SQL"
+        ],
+        "education": "Master's degree in Computer Science, Data Science or related field",
+        "languages": [
+          "English"
+        ]
+      },
+      "preferred_qualifications": {
+        "skills": [
+          "MLflow",
+          "Kubernetes",
+          "Deep learning",
+          "NLP",
+          "Computer vision"
+        ],
+        "certifications": [
+          "AWS ML Specialty",
+          "TensorFlow Certificate"
+        ],
+        "languages": [
+          "Finnish"
+        ]
+      },
+      "benefits": [
+        "Competitive salary",
+        "Research time",
+        "Conference budget",
+        "GPU resources"
+      ],
+      "salary_range": {
+        "min": 50000,
+        "max": 70000,
+        "currency": "EUR",
+        "period": "annual"
+      }
+    },
+    {
+      "id": "job_006",
+      "title": "Project Manager",
+      "company": {
+        "name": "Solita",
+        "location": "Helsinki, Finland",
+        "department": "Delivery"
+      },
+      "employment_type": "Full-time",
+      "work_arrangement": "Hybrid",
+      "posted_date": "2024-01-17",
+      "application_deadline": "2024-03-05",
+      "summary": "Lead agile software development projects for enterprise clients.",
+      "responsibilities": [
+        "Manage project scope, timeline, and budget",
+        "Lead cross-functional agile teams",
+        "Communicate with stakeholders",
+        "Identify and mitigate risks",
+        "Ensure project delivery quality"
+      ],
+      "required_qualifications": {
+        "experience_years": 6,
+        "skills": [
+          "Agile/Scrum",
+          "Project management",
+          "Stakeholder management",
+          "Risk management",
+          "Jira"
+        ],
+        "education": "Bachelor's degree in relevant field",
+        "languages": [
+          "Finnish",
+          "English"
+        ]
+      },
+      "preferred_qualifications": {
+        "skills": [
+          "SAFe",
+          "Change management",
+          "Budget management"
+        ],
+        "certifications": [
+          "PMP",
+          "Scrum Master",
+          "SAFe Agilist"
+        ],
+        "languages": [
+          "Swedish"
+        ]
+      },
+      "benefits": [
+        "Competitive salary",
+        "Leadership development",
+        "Flexible working",
+        "Health benefits"
+      ],
+      "salary_range": {
+        "min": 55000,
+        "max": 75000,
+        "currency": "EUR",
+        "period": "annual"
+      }
+    },
+    {
+      "id": "job_007",
+      "title": "Cybersecurity Consultant",
+      "company": {
+        "name": "Solita",
+        "location": "Helsinki, Finland",
+        "department": "Security"
+      },
+      "employment_type": "Full-time",
+      "work_arrangement": "Hybrid",
+      "posted_date": "2024-01-23",
+      "application_deadline": "2024-03-15",
+      "summary": "Help our clients secure their digital assets and infrastructure.",
+      "responsibilities": [
+        "Conduct security assessments and penetration tests",
+        "Design security architectures",
+        "Advise clients on security best practices",
+        "Perform incident response",
+        "Deliver security training"
+      ],
+      "required_qualifications": {
+        "experience_years": 5,
+        "skills": [
+          "Security architecture",
+          "Penetration testing",
+          "Cloud security",
+          "SIEM",
+          "Compliance"
+        ],
+        "education": "Bachelor's degree in Computer Science or related field",
+        "languages": [
+          "Finnish",
+          "English"
+        ]
+      },
+      "preferred_qualifications": {
+        "skills": [
+          "Zero trust",
+          "Threat modeling",
+          "Forensics",
+          "Security automation"
+        ],
+        "certifications": [
+          "CISSP",
+          "CEH",
+          "OSCP"
+        ],
+        "languages": [
+          "Swedish"
+        ]
+      },
+      "benefits": [
+        "Competitive salary",
+        "Certification support",
+        "Security conferences",
+        "Latest tools"
+      ],
+      "salary_range": {
+        "min": 55000,
+        "max": 80000,
+        "currency": "EUR",
+        "period": "annual"
+      }
+    },
+    {
+      "id": "job_008",
+      "title": "Solutions Architect",
+      "company": {
+        "name": "Solita",
+        "location": "Espoo, Finland",
+        "department": "Architecture"
+      },
+      "employment_type": "Full-time",
+      "work_arrangement": "Hybrid",
+      "posted_date": "2024-01-19",
+      "application_deadline": "2024-03-10",
+      "summary": "Design scalable and robust solutions for complex enterprise systems.",
+      "responsibilities": [
+        "Design solution architectures for client projects",
+        "Lead technical teams",
+        "Evaluate technologies and platforms",
+        "Create technical documentation",
+        "Mentor developers on architectural patterns"
+      ],
+      "required_qualifications": {
+        "experience_years": 8,
+        "skills": [
+          "System architecture",
+          "Cloud platforms",
+          "Microservices",
+          "API design",
+          "Technical leadership"
+        ],
+        "education": "Master's degree in Computer Science or equivalent",
+        "languages": [
+          "English"
+        ]
+      },
+      "preferred_qualifications": {
+        "skills": [
+          "Enterprise integration",
+          "Event-driven architecture",
+          "Domain-driven design"
+        ],
+        "certifications": [
+          "AWS Solutions Architect Professional",
+          "TOGAF"
+        ],
+        "languages": [
+          "Finnish"
+        ]
+      },
+      "benefits": [
+        "Competitive salary",
+        "Technical leadership opportunities",
+        "Architecture community",
+        "Conferences"
+      ],
+      "salary_range": {
+        "min": 65000,
+        "max": 90000,
+        "currency": "EUR",
+        "period": "annual"
+      }
+    },
+    {
+      "id": "job_009",
+      "title": "Business Analyst",
+      "company": {
+        "name": "Solita",
+        "location": "Helsinki, Finland",
+        "department": "Business Solutions"
+      },
+      "employment_type": "Full-time",
+      "work_arrangement": "Hybrid",
+      "posted_date": "2024-01-21",
+      "application_deadline": "2024-03-08",
+      "summary": "Bridge business and technology by analyzing requirements and designing solutions.",
+      "responsibilities": [
+        "Gather and analyze business requirements",
+        "Create process models and documentation",
+        "Facilitate workshops with stakeholders",
+        "Support solution design",
+        "Validate deliveries against requirements"
+      ],
+      "required_qualifications": {
+        "experience_years": 4,
+        "skills": [
+          "Requirements analysis",
+          "Process modeling",
+          "Stakeholder management",
+          "SQL",
+          "Documentation"
+        ],
+        "education": "Bachelor's degree in Business, IT or related field",
+        "languages": [
+          "Finnish",
+          "English"
+        ]
+      },
+      "preferred_qualifications": {
+        "skills": [
+          "UML",
+          "Data analysis",
+          "Agile",
+          "Change management"
+        ],
+        "certifications": [
+          "CBAP",
+          "Agile Analysis"
+        ],
+        "languages": [
+          "Swedish"
+        ]
+      },
+      "benefits": [
+        "Competitive salary",
+        "Varied projects",
+        "Professional development",
+        "Flexible working"
+      ],
+      "salary_range": {
+        "min": 45000,
+        "max": 62000,
+        "currency": "EUR",
+        "period": "annual"
+      }
+    },
+    {
+      "id": "job_010",
+      "title": "Service Designer",
+      "company": {
+        "name": "Solita",
+        "location": "Helsinki, Finland",
+        "department": "Design"
+      },
+      "employment_type": "Full-time",
+      "work_arrangement": "Hybrid",
+      "posted_date": "2024-01-24",
+      "application_deadline": "2024-03-12",
+      "summary": "Design holistic service experiences that delight users and create business value.",
+      "responsibilities": [
+        "Facilitate service design workshops",
+        "Create service blueprints and journey maps",
+        "Conduct user research",
+        "Design end-to-end service experiences",
+        "Collaborate with multidisciplinary teams"
+      ],
+      "required_qualifications": {
+        "experience_years": 5,
+        "skills": [
+          "Service design",
+          "User research",
+          "Workshop facilitation",
+          "Journey mapping",
+          "Prototyping"
+        ],
+        "education": "Master's degree in Design, Service Design or related field",
+        "languages": [
+          "Finnish",
+          "English"
+        ]
+      },
+      "preferred_qualifications": {
+        "skills": [
+          "Design thinking",
+          "Business design",
+          "Change management",
+          "Co-creation"
+        ],
+        "certifications": [],
+        "languages": [
+          "Swedish"
+        ]
+      },
+      "benefits": [
+        "Competitive salary",
+        "Design community",
+        "International projects",
+        "Conference budget"
+      ],
+      "salary_range": {
+        "min": 48000,
+        "max": 68000,
+        "currency": "EUR",
+        "period": "annual"
+      }
+    },
+    {
+      "id": "job_011",
+      "title": "Senior Software Engineer",
+      "company": {
+        "name": "Acme Corp",
+        "location": "New York, USA",
+        "department": "Platform Engineering"
+      },
+      "employment_type": "Full-time",
+      "work_arrangement": "Hybrid",
+      "summary": "We are looking for a Senior Software Engineer to join our platform team and help build the next generation of our financial infrastructure.",
+      "responsibilities": [
+        "Design and build scalable backend services",
+        "Collaborate with product and design teams",
+        "Review code and mentor junior engineers",
+        "Participate in on-call rotation"
+      ],
+      "required_qualifications": {
+        "experience_years": 4,
+        "skills": [
+          "Python",
+          "PostgreSQL",
+          "REST APIs",
+          "Docker"
+        ],
+        "education": "Bachelor's degree in Computer Science or equivalent experience",
+        "languages": [
+          "English"
+        ]
+      },
+      "preferred_qualifications": {
+        "skills": [
+          "Kubernetes",
+          "AWS",
+          "TypeScript",
+          "Kafka"
+        ],
+        "certifications": [
+          "AWS Certified Solutions Architect"
+        ]
+      },
+      "soft_skills": [
+        "Strong communicator",
+        "Self-starter",
+        "Team player"
+      ],
+      "interview_process": [
+        "Recruiter Screen (30 min)",
+        "Technical Phone Screen (60 min)",
+        "Take-home Assignment",
+        "On-site / Virtual Loop (4 rounds)",
+        "Offer"
+      ]
+    }
+  ]
+}
