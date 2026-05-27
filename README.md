@@ -20,7 +20,7 @@ pip install -r requirements.txt
 
 cp .env.example .env             # add your LITELLM_API_KEY
 
-python scripts/ingest_data.py   # → Indexed candidates: 31
+python scripts/ingest_data.py   # → Indexed candidates: 51
 uvicorn app.api.main:app --reload
 ```
 
@@ -42,15 +42,3 @@ See **[GETTING_STARTED.md](GETTING_STARTED.md)** for the full assignment, stage-
 | `POST` | `/ingest` | Re-index all candidates into Chroma |
 | `POST` | `/match` | Match free-text job description |
 | `POST` | `/match/job/{job_id}` | Match predefined job (e.g. `job_001`) |
-
----
-
-## Troubleshooting
-
-| Error | Fix |
-|-------|-----|
-| `ModuleNotFoundError: No module named 'app'` | Run from project root, not from inside `scripts/` |
-| `Collection does not exist` | Complete Stage 2 in `ingest.py`, then run `python scripts/ingest_data.py` |
-| `401 invalid_api_key` | Check `LITELLM_API_KEY` in `.env` |
-| All scores are `0.0` | You need `"hnsw:space": "cosine"` in the collection — see Stage 2 |
-| Port 8000 in use | Add `--port 8001` to the uvicorn command |

@@ -1,0 +1,77 @@
+{
+  "id": "cv_040",
+  "available_from": null,
+  "personal_info": {
+    "name": "Mattias Gustafsson",
+    "email": "mattias.gustafsson@example.com",
+    "phone": "+46 70 901 2345",
+    "location": "Malmö, Sweden",
+    "linkedin": "linkedin.com/in/mattiasgustafsson"
+  },
+  "summary": "Business analyst with 7 years of experience translating complex business requirements into actionable technical specifications.",
+  "skills": {
+    "technical": [
+      "SQL",
+      "Power BI",
+      "Tableau",
+      "Jira",
+      "Requirements engineering",
+      "Process modelling",
+      "BPMN",
+      "Excel"
+    ],
+    "soft": [
+      "Stakeholder management",
+      "Critical thinking",
+      "Communication",
+      "Facilitation"
+    ]
+  },
+  "experience": [
+    {
+      "title": "Senior Business Analyst",
+      "company": "Axis Communications",
+      "location": "Malmö, Sweden",
+      "start_date": "2019-01",
+      "end_date": null,
+      "current": true,
+      "description": "Bridging business and technology for IoT product development.",
+      "responsibilities": [
+        "Documented 200+ user stories for a global product launch",
+        "Built Power BI dashboards consumed by C-level stakeholders",
+        "Facilitated process redesign reducing order cycle by 30%"
+      ],
+      "technologies": [
+        "SQL",
+        "Power BI",
+        "Jira",
+        "Confluence"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "B.Sc. in Business Informatics",
+      "institution": "Lund University",
+      "location": "Lund, Sweden",
+      "graduation_date": "2017-06"
+    }
+  ],
+  "certifications": [
+    {
+      "name": "CBAP",
+      "issuer": "IIBA",
+      "date": "2022-01"
+    }
+  ],
+  "languages": [
+    {
+      "language": "Swedish",
+      "proficiency": "Native"
+    },
+    {
+      "language": "English",
+      "proficiency": "Fluent"
+    }
+  ]
+}

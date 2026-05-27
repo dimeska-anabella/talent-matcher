@@ -1,0 +1,78 @@
+{
+  "id": "cv_039",
+  "available_from": "2026-07-01",
+  "personal_info": {
+    "name": "Karin Eriksson",
+    "email": "karin.eriksson@example.com",
+    "phone": "+46 70 890 1234",
+    "location": "Stockholm, Sweden",
+    "linkedin": "linkedin.com/in/karineriksson"
+  },
+  "summary": "Solutions architect with 11 years of experience designing scalable cloud and hybrid enterprise architectures.",
+  "skills": {
+    "technical": [
+      "AWS",
+      "Azure",
+      "Microservices",
+      "Event-driven architecture",
+      "Terraform",
+      "API Gateway",
+      "Security design",
+      "Cost optimisation"
+    ],
+    "soft": [
+      "Strategic thinking",
+      "Client advisory",
+      "Presentation",
+      "Technical leadership"
+    ]
+  },
+  "experience": [
+    {
+      "title": "Principal Solutions Architect",
+      "company": "AWS",
+      "location": "Stockholm, Sweden",
+      "start_date": "2016-08",
+      "end_date": null,
+      "current": true,
+      "description": "Advising enterprise customers on cloud architecture and migration.",
+      "responsibilities": [
+        "Designed cloud-native architectures for 30+ enterprise clients",
+        "Led migration of legacy SAP systems to AWS",
+        "Reduced client infrastructure costs by an average of 35%"
+      ],
+      "technologies": [
+        "AWS",
+        "Terraform",
+        "Kubernetes",
+        "API Gateway",
+        "Event Bridge"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "M.Sc. in Computer Science",
+      "institution": "Linköping University",
+      "location": "Linköping, Sweden",
+      "graduation_date": "2013-06"
+    }
+  ],
+  "certifications": [
+    {
+      "name": "AWS Certified Solutions Architect Professional",
+      "issuer": "Amazon Web Services",
+      "date": "2020-05"
+    }
+  ],
+  "languages": [
+    {
+      "language": "Swedish",
+      "proficiency": "Native"
+    },
+    {
+      "language": "English",
+      "proficiency": "Fluent"
+    }
+  ]
+}

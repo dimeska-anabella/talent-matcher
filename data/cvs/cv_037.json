@@ -1,0 +1,81 @@
+{
+  "id": "cv_037",
+  "available_from": null,
+  "personal_info": {
+    "name": "Maria Nilsson",
+    "email": "maria.nilsson@example.com",
+    "phone": "+46 70 678 9012",
+    "location": "Gothenburg, Sweden",
+    "linkedin": "linkedin.com/in/marianilsson"
+  },
+  "summary": "Project manager with 10 years of experience delivering complex IT and product programmes in agile environments.",
+  "skills": {
+    "technical": [
+      "Jira",
+      "Confluence",
+      "MS Project",
+      "Agile",
+      "Scrum",
+      "Risk management",
+      "Stakeholder management",
+      "Budget planning"
+    ],
+    "soft": [
+      "Leadership",
+      "Communication",
+      "Negotiation",
+      "Problem-solving"
+    ]
+  },
+  "experience": [
+    {
+      "title": "Senior Project Manager",
+      "company": "IKEA Digital",
+      "location": "Gothenburg, Sweden",
+      "start_date": "2017-05",
+      "end_date": null,
+      "current": true,
+      "description": "Leading digital transformation programmes.",
+      "responsibilities": [
+        "Delivered €12M e-commerce re-platform on time",
+        "Managed cross-functional teams of 30+ people",
+        "Introduced OKR framework across 4 product teams"
+      ],
+      "technologies": [
+        "Jira",
+        "Confluence",
+        "MS Project",
+        "Agile"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "M.B.A.",
+      "institution": "Gothenburg School of Business",
+      "location": "Gothenburg, Sweden",
+      "graduation_date": "2014-05"
+    }
+  ],
+  "certifications": [
+    {
+      "name": "PMP",
+      "issuer": "PMI",
+      "date": "2018-06"
+    }
+  ],
+  "languages": [
+    {
+      "language": "Swedish",
+      "proficiency": "Native"
+    },
+    {
+      "language": "English",
+      "proficiency": "Fluent"
+    },
+    {
+      "language": "German",
+      "proficiency": "Conversational"
+    }
+  ]
+}

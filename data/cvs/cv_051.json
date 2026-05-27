@@ -1,0 +1,74 @@
+{
+  "id": "cv_051",
+  "available_from": null,
+  "personal_info": {
+    "name": "Cecilia Norén",
+    "email": "cecilia.noren@example.com",
+    "phone": "+46 70 012 4567",
+    "location": "Stockholm, Sweden",
+    "linkedin": "linkedin.com/in/cecilianoren",
+    "github": "github.com/cnoren"
+  },
+  "summary": "AI engineer with 4 years of experience building LLM-powered products, RAG pipelines, and AI agents for enterprise applications.",
+  "skills": {
+    "technical": [
+      "Python",
+      "LangChain",
+      "OpenAI API",
+      "vector databases",
+      "FastAPI",
+      "Docker",
+      "Azure OpenAI",
+      "Prompt engineering"
+    ],
+    "soft": [
+      "Research mindset",
+      "Product thinking",
+      "Communication",
+      "Cross-functional collaboration"
+    ]
+  },
+  "experience": [
+    {
+      "title": "AI Engineer",
+      "company": "Bonnier News",
+      "location": "Stockholm, Sweden",
+      "start_date": "2022-09",
+      "end_date": null,
+      "current": true,
+      "description": "Building AI-driven products for newsroom and reader personalisation.",
+      "responsibilities": [
+        "Built RAG system enabling journalists to query 20 years of archive",
+        "Developed content recommendation engine increasing engagement by 28%",
+        "Led responsible AI review process for all AI-powered features"
+      ],
+      "technologies": [
+        "Python",
+        "LangChain",
+        "Azure OpenAI",
+        "ChromaDB",
+        "FastAPI",
+        "Docker"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "M.Sc. in Artificial Intelligence",
+      "institution": "KTH Royal Institute of Technology",
+      "location": "Stockholm, Sweden",
+      "graduation_date": "2022-06"
+    }
+  ],
+  "certifications": [],
+  "languages": [
+    {
+      "language": "Swedish",
+      "proficiency": "Native"
+    },
+    {
+      "language": "English",
+      "proficiency": "Fluent"
+    }
+  ]
+}

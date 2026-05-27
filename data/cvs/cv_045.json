@@ -1,0 +1,84 @@
+{
+  "id": "cv_045",
+  "available_from": null,
+  "personal_info": {
+    "name": "Sara Hansson",
+    "email": "sara.hansson@example.com",
+    "phone": "+46 70 456 8901",
+    "location": "Stockholm, Sweden",
+    "linkedin": "linkedin.com/in/sarahansson",
+    "github": "github.com/shansson"
+  },
+  "summary": "Cloud engineer with 6 years of experience in multi-cloud infrastructure, cost optimisation, and infrastructure-as-code.",
+  "skills": {
+    "technical": [
+      "AWS",
+      "Azure",
+      "GCP",
+      "Terraform",
+      "Pulumi",
+      "Python",
+      "Kubernetes",
+      "Networking"
+    ],
+    "soft": [
+      "Cost awareness",
+      "Reliability engineering",
+      "Documentation",
+      "Agile"
+    ]
+  },
+  "experience": [
+    {
+      "title": "Cloud Engineer",
+      "company": "H&M Group",
+      "location": "Stockholm, Sweden",
+      "start_date": "2020-09",
+      "end_date": null,
+      "current": true,
+      "description": "Running the multi-cloud platform for global retail operations.",
+      "responsibilities": [
+        "Saved €2M/year through rightsizing and reserved instance strategy",
+        "Built Terraform modules used by 20+ engineering teams",
+        "Automated disaster recovery with RTO under 15 minutes"
+      ],
+      "technologies": [
+        "AWS",
+        "Azure",
+        "Terraform",
+        "Kubernetes",
+        "Python"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "B.Sc. in Network Engineering",
+      "institution": "KTH Royal Institute of Technology",
+      "location": "Stockholm, Sweden",
+      "graduation_date": "2019-05"
+    }
+  ],
+  "certifications": [
+    {
+      "name": "AWS Certified DevOps Engineer Professional",
+      "issuer": "Amazon Web Services",
+      "date": "2022-07"
+    },
+    {
+      "name": "Google Professional Cloud Architect",
+      "issuer": "Google",
+      "date": "2023-02"
+    }
+  ],
+  "languages": [
+    {
+      "language": "Swedish",
+      "proficiency": "Native"
+    },
+    {
+      "language": "English",
+      "proficiency": "Fluent"
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "id": "cv_032",
+  "available_from": null,
+  "personal_info": {
+    "name": "Erik Lindqvist",
+    "email": "erik.lindqvist@example.com",
+    "phone": "+46 70 123 4567",
+    "location": "Stockholm, Sweden",
+    "linkedin": "linkedin.com/in/eriklindqvist",
+    "github": "github.com/elindqvist"
+  },
+  "summary": "Senior full-stack developer with 9 years of experience in React, Node.js, and cloud-native architectures.",
+  "skills": {
+    "technical": [
+      "JavaScript",
+      "TypeScript",
+      "React",
+      "Node.js",
+      "Azure",
+      "Docker",
+      "PostgreSQL",
+      "GraphQL"
+    ],
+    "soft": [
+      "Leadership",
+      "Mentoring",
+      "Agile",
+      "Communication"
+    ]
+  },
+  "experience": [
+    {
+      "title": "Senior Full-Stack Developer",
+      "company": "Ericsson",
+      "location": "Stockholm, Sweden",
+      "start_date": "2019-03",
+      "end_date": null,
+      "current": true,
+      "description": "Lead developer for internal developer platforms.",
+      "responsibilities": [
+        "Architected microservices deployed on Azure",
+        "Led a team of 6 developers",
+        "Reduced time-to-deploy by 50%"
+      ],
+      "technologies": [
+        "React",
+        "Node.js",
+        "Azure",
+        "PostgreSQL",
+        "Docker"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "M.Sc. in Computer Science",
+      "institution": "KTH Royal Institute of Technology",
+      "location": "Stockholm, Sweden",
+      "graduation_date": "2015-06"
+    }
+  ],
+  "certifications": [
+    {
+      "name": "Azure Solutions Architect Expert",
+      "issuer": "Microsoft",
+      "date": "2022-04"
+    }
+  ],
+  "languages": [
+    {
+      "language": "Swedish",
+      "proficiency": "Native"
+    },
+    {
+      "language": "English",
+      "proficiency": "Fluent"
+    }
+  ]
+}

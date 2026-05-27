@@ -1,0 +1,71 @@
+{
+  "id": "cv_034",
+  "available_from": "2026-08-01",
+  "personal_info": {
+    "name": "Johan Karlsson",
+    "email": "johan.karlsson@example.com",
+    "phone": "+46 70 345 6789",
+    "location": "Malmö, Sweden",
+    "linkedin": "linkedin.com/in/johankarlsson"
+  },
+  "summary": "UX/UI designer with 6 years of experience creating user-centred digital products across fintech and e-commerce.",
+  "skills": {
+    "technical": [
+      "Figma",
+      "Adobe XD",
+      "Sketch",
+      "Prototyping",
+      "User research",
+      "Usability testing",
+      "Design systems",
+      "HTML/CSS"
+    ],
+    "soft": [
+      "Empathy",
+      "Storytelling",
+      "Collaboration",
+      "Facilitation"
+    ]
+  },
+  "experience": [
+    {
+      "title": "Senior UX/UI Designer",
+      "company": "Klarna",
+      "location": "Stockholm, Sweden",
+      "start_date": "2020-01",
+      "end_date": null,
+      "current": true,
+      "description": "Designing checkout and financial product experiences.",
+      "responsibilities": [
+        "Redesigned checkout flow increasing conversion by 18%",
+        "Built and maintained design system used by 40+ engineers",
+        "Ran user research sessions across 5 markets"
+      ],
+      "technologies": [
+        "Figma",
+        "Prototyping",
+        "User research",
+        "Design systems"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "B.A. in Interaction Design",
+      "institution": "Malmö University",
+      "location": "Malmö, Sweden",
+      "graduation_date": "2018-06"
+    }
+  ],
+  "certifications": [],
+  "languages": [
+    {
+      "language": "Swedish",
+      "proficiency": "Native"
+    },
+    {
+      "language": "English",
+      "proficiency": "Fluent"
+    }
+  ]
+}

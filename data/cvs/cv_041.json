@@ -1,0 +1,71 @@
+{
+  "id": "cv_041",
+  "available_from": "2026-06-01",
+  "personal_info": {
+    "name": "Lena Pettersson",
+    "email": "lena.pettersson@example.com",
+    "phone": "+46 70 012 3456",
+    "location": "Stockholm, Sweden",
+    "linkedin": "linkedin.com/in/lenapettersson"
+  },
+  "summary": "Service designer with 6 years of experience designing end-to-end service experiences in public sector and healthcare.",
+  "skills": {
+    "technical": [
+      "Service blueprinting",
+      "Journey mapping",
+      "Figma",
+      "Miro",
+      "Co-design workshops",
+      "Prototyping",
+      "User research",
+      "Accessibility"
+    ],
+    "soft": [
+      "Empathy",
+      "Facilitation",
+      "Systems thinking",
+      "Storytelling"
+    ]
+  },
+  "experience": [
+    {
+      "title": "Service Designer",
+      "company": "Sogeti",
+      "location": "Stockholm, Sweden",
+      "start_date": "2020-06",
+      "end_date": null,
+      "current": true,
+      "description": "Designing digital public services for government clients.",
+      "responsibilities": [
+        "Redesigned citizen onboarding journey reducing drop-off by 22%",
+        "Facilitated 40+ co-design workshops with end users",
+        "Created service blueprints adopted as standards across 3 agencies"
+      ],
+      "technologies": [
+        "Figma",
+        "Miro",
+        "Service blueprinting",
+        "Journey mapping"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "M.A. in Service Design",
+      "institution": "Konstfack University of Arts, Crafts and Design",
+      "location": "Stockholm, Sweden",
+      "graduation_date": "2019-06"
+    }
+  ],
+  "certifications": [],
+  "languages": [
+    {
+      "language": "Swedish",
+      "proficiency": "Native"
+    },
+    {
+      "language": "English",
+      "proficiency": "Fluent"
+    }
+  ]
+}

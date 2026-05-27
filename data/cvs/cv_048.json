@@ -1,0 +1,73 @@
+{
+  "id": "cv_048",
+  "available_from": null,
+  "personal_info": {
+    "name": "Pontus Strand",
+    "email": "pontus.strand@example.com",
+    "phone": "+46 70 789 1234",
+    "location": "Malmö, Sweden",
+    "linkedin": "linkedin.com/in/pontusstrand",
+    "github": "github.com/pstrand"
+  },
+  "summary": "Mobile developer with 5 years of experience building cross-platform and native apps for fintech and health tech.",
+  "skills": {
+    "technical": [
+      "Flutter",
+      "Dart",
+      "Swift",
+      "Kotlin",
+      "Firebase",
+      "REST APIs",
+      "Git",
+      "BLoC"
+    ],
+    "soft": [
+      "User empathy",
+      "Testing discipline",
+      "Collaboration",
+      "Agile"
+    ]
+  },
+  "experience": [
+    {
+      "title": "Mobile Developer",
+      "company": "Tink",
+      "location": "Malmö, Sweden",
+      "start_date": "2021-08",
+      "end_date": null,
+      "current": true,
+      "description": "Developing open banking mobile SDK and consumer apps.",
+      "responsibilities": [
+        "Built Flutter SDK downloaded 50k+ times on pub.dev",
+        "Implemented biometric authentication for 8 banking partners",
+        "Reduced crash rate from 2.1% to 0.3% over 6 months"
+      ],
+      "technologies": [
+        "Flutter",
+        "Dart",
+        "Swift",
+        "Kotlin",
+        "Firebase"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "B.Sc. in Computer Science",
+      "institution": "Malmö University",
+      "location": "Malmö, Sweden",
+      "graduation_date": "2020-06"
+    }
+  ],
+  "certifications": [],
+  "languages": [
+    {
+      "language": "Swedish",
+      "proficiency": "Native"
+    },
+    {
+      "language": "English",
+      "proficiency": "Fluent"
+    }
+  ]
+}

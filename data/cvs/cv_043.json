@@ -1,0 +1,72 @@
+{
+  "id": "cv_043",
+  "available_from": "2026-07-15",
+  "personal_info": {
+    "name": "Emma Lindgren",
+    "email": "emma.lindgren@example.com",
+    "phone": "+46 70 234 6789",
+    "location": "Stockholm, Sweden",
+    "linkedin": "linkedin.com/in/emmalindgren",
+    "github": "github.com/elindgren2"
+  },
+  "summary": "Frontend developer with 4 years of experience building accessible, high-performance web applications with React and Vue.",
+  "skills": {
+    "technical": [
+      "React",
+      "Vue.js",
+      "TypeScript",
+      "Tailwind CSS",
+      "Storybook",
+      "Jest",
+      "Cypress",
+      "Webpack"
+    ],
+    "soft": [
+      "Attention to detail",
+      "Accessibility focus",
+      "Collaboration",
+      "User empathy"
+    ]
+  },
+  "experience": [
+    {
+      "title": "Frontend Developer",
+      "company": "Hemnet",
+      "location": "Stockholm, Sweden",
+      "start_date": "2022-01",
+      "end_date": null,
+      "current": true,
+      "description": "Building the consumer-facing property search platform.",
+      "responsibilities": [
+        "Rebuilt map search component improving load time by 45%",
+        "Introduced component library adopted by 3 product teams",
+        "Achieved WCAG 2.1 AA compliance across core user journeys"
+      ],
+      "technologies": [
+        "React",
+        "TypeScript",
+        "Tailwind CSS",
+        "Storybook"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "B.Sc. in Computer Science",
+      "institution": "Stockholm University",
+      "location": "Stockholm, Sweden",
+      "graduation_date": "2021-06"
+    }
+  ],
+  "certifications": [],
+  "languages": [
+    {
+      "language": "Swedish",
+      "proficiency": "Native"
+    },
+    {
+      "language": "English",
+      "proficiency": "Fluent"
+    }
+  ]
+}

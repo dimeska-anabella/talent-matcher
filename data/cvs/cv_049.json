@@ -1,0 +1,79 @@
+{
+  "id": "cv_049",
+  "available_from": "2026-07-01",
+  "personal_info": {
+    "name": "Helena Lund",
+    "email": "helena.lund@example.com",
+    "phone": "+46 70 890 2345",
+    "location": "Stockholm, Sweden",
+    "linkedin": "linkedin.com/in/helinalund",
+    "github": "github.com/hlund"
+  },
+  "summary": "QA and test automation engineer with 6 years of experience in building reliable test pipelines for web and API products.",
+  "skills": {
+    "technical": [
+      "Selenium",
+      "Playwright",
+      "Pytest",
+      "Postman",
+      "JMeter",
+      "CI/CD",
+      "Python",
+      "SQL"
+    ],
+    "soft": [
+      "Attention to detail",
+      "Risk assessment",
+      "Documentation",
+      "Collaboration"
+    ]
+  },
+  "experience": [
+    {
+      "title": "QA Automation Engineer",
+      "company": "iZettle (PayPal)",
+      "location": "Stockholm, Sweden",
+      "start_date": "2020-02",
+      "end_date": null,
+      "current": true,
+      "description": "Owning test automation for payment and merchant onboarding flows.",
+      "responsibilities": [
+        "Built Playwright test suite with 1200+ tests running in CI",
+        "Reduced regression cycle from 3 days to 4 hours",
+        "Led test strategy for PCI-DSS compliance testing"
+      ],
+      "technologies": [
+        "Playwright",
+        "Python",
+        "Postman",
+        "GitHub Actions",
+        "JMeter"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "B.Sc. in Software Testing",
+      "institution": "Stockholm University",
+      "location": "Stockholm, Sweden",
+      "graduation_date": "2019-06"
+    }
+  ],
+  "certifications": [
+    {
+      "name": "ISTQB Advanced Test Automation Engineer",
+      "issuer": "ISTQB",
+      "date": "2022-05"
+    }
+  ],
+  "languages": [
+    {
+      "language": "Swedish",
+      "proficiency": "Native"
+    },
+    {
+      "language": "English",
+      "proficiency": "Fluent"
+    }
+  ]
+}

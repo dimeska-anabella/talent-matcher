@@ -1,0 +1,73 @@
+{
+  "id": "cv_042",
+  "available_from": null,
+  "personal_info": {
+    "name": "Oscar Björk",
+    "email": "oscar.bjork@example.com",
+    "phone": "+46 70 123 5678",
+    "location": "Uppsala, Sweden",
+    "linkedin": "linkedin.com/in/oscarbjork",
+    "github": "github.com/objork"
+  },
+  "summary": "Senior software engineer with 7 years of experience in backend systems, distributed architecture, and team leadership.",
+  "skills": {
+    "technical": [
+      "Java",
+      "Kotlin",
+      "Spring Boot",
+      "Kafka",
+      "PostgreSQL",
+      "AWS",
+      "Docker",
+      "Kubernetes"
+    ],
+    "soft": [
+      "Code review",
+      "Mentoring",
+      "Ownership",
+      "Agile"
+    ]
+  },
+  "experience": [
+    {
+      "title": "Senior Software Engineer",
+      "company": "Bambora",
+      "location": "Uppsala, Sweden",
+      "start_date": "2019-05",
+      "end_date": null,
+      "current": true,
+      "description": "Building payment processing infrastructure.",
+      "responsibilities": [
+        "Designed high-throughput payment service handling 2M transactions/day",
+        "Led migration from monolith to microservices",
+        "Mentored 4 junior engineers"
+      ],
+      "technologies": [
+        "Kotlin",
+        "Spring Boot",
+        "Kafka",
+        "PostgreSQL",
+        "Kubernetes"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "M.Sc. in Software Engineering",
+      "institution": "Uppsala University",
+      "location": "Uppsala, Sweden",
+      "graduation_date": "2018-06"
+    }
+  ],
+  "certifications": [],
+  "languages": [
+    {
+      "language": "Swedish",
+      "proficiency": "Native"
+    },
+    {
+      "language": "English",
+      "proficiency": "Fluent"
+    }
+  ]
+}

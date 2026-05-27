@@ -1,0 +1,80 @@
+{
+  "id": "cv_033",
+  "available_from": "2026-07-01",
+  "personal_info": {
+    "name": "Sofia Bergström",
+    "email": "sofia.bergstrom@example.com",
+    "phone": "+46 70 234 5678",
+    "location": "Gothenburg, Sweden",
+    "linkedin": "linkedin.com/in/sofiabergstrom",
+    "github": "github.com/sbergstrom"
+  },
+  "summary": "Data engineer with 7 years of experience designing and operating large-scale data pipelines on cloud platforms.",
+  "skills": {
+    "technical": [
+      "Python",
+      "Apache Spark",
+      "dbt",
+      "Airflow",
+      "GCP",
+      "BigQuery",
+      "Kafka",
+      "SQL"
+    ],
+    "soft": [
+      "Analytical thinking",
+      "Documentation",
+      "Collaboration",
+      "Agile"
+    ]
+  },
+  "experience": [
+    {
+      "title": "Senior Data Engineer",
+      "company": "Volvo Cars",
+      "location": "Gothenburg, Sweden",
+      "start_date": "2018-09",
+      "end_date": null,
+      "current": true,
+      "description": "Building the connected vehicle data platform.",
+      "responsibilities": [
+        "Designed streaming pipelines ingesting 5M events/hour",
+        "Led migration from on-prem Hadoop to GCP",
+        "Implemented data quality framework with 99.9% SLA"
+      ],
+      "technologies": [
+        "Python",
+        "Spark",
+        "Kafka",
+        "GCP",
+        "BigQuery",
+        "Airflow"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "M.Sc. in Data Engineering",
+      "institution": "Chalmers University of Technology",
+      "location": "Gothenburg, Sweden",
+      "graduation_date": "2017-06"
+    }
+  ],
+  "certifications": [
+    {
+      "name": "Google Professional Data Engineer",
+      "issuer": "Google",
+      "date": "2021-11"
+    }
+  ],
+  "languages": [
+    {
+      "language": "Swedish",
+      "proficiency": "Native"
+    },
+    {
+      "language": "English",
+      "proficiency": "Fluent"
+    }
+  ]
+}

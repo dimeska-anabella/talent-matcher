@@ -1,0 +1,73 @@
+{
+  "id": "cv_046",
+  "available_from": "2026-06-01",
+  "personal_info": {
+    "name": "Fredrik Olsson",
+    "email": "fredrik.olsson@example.com",
+    "phone": "+46 70 567 9012",
+    "location": "Gothenburg, Sweden",
+    "linkedin": "linkedin.com/in/fredrikolsson",
+    "github": "github.com/folsson"
+  },
+  "summary": "Data scientist with 5 years of experience in statistical modelling, forecasting, and productionising ML models for retail and logistics.",
+  "skills": {
+    "technical": [
+      "Python",
+      "R",
+      "Scikit-learn",
+      "XGBoost",
+      "SQL",
+      "Spark",
+      "Databricks",
+      "Power BI"
+    ],
+    "soft": [
+      "Statistical rigour",
+      "Business acumen",
+      "Presentation",
+      "Collaboration"
+    ]
+  },
+  "experience": [
+    {
+      "title": "Data Scientist",
+      "company": "PostNord",
+      "location": "Gothenburg, Sweden",
+      "start_date": "2021-06",
+      "end_date": null,
+      "current": true,
+      "description": "Building forecasting and optimisation models for parcel delivery.",
+      "responsibilities": [
+        "Built demand forecasting model reducing excess capacity by 15%",
+        "Deployed route optimisation saving 8% in fuel costs",
+        "Productionised 10+ models using Databricks and MLflow"
+      ],
+      "technologies": [
+        "Python",
+        "Databricks",
+        "Spark",
+        "MLflow",
+        "Power BI"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "M.Sc. in Statistics",
+      "institution": "University of Gothenburg",
+      "location": "Gothenburg, Sweden",
+      "graduation_date": "2020-06"
+    }
+  ],
+  "certifications": [],
+  "languages": [
+    {
+      "language": "Swedish",
+      "proficiency": "Native"
+    },
+    {
+      "language": "English",
+      "proficiency": "Fluent"
+    }
+  ]
+}

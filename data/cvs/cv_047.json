@@ -1,0 +1,75 @@
+{
+  "id": "cv_047",
+  "available_from": "2026-09-01",
+  "personal_info": {
+    "name": "Maja Andersson",
+    "email": "maja.andersson@example.com",
+    "phone": "+46 70 678 0123",
+    "location": "Stockholm, Sweden",
+    "linkedin": "linkedin.com/in/majaandersson"
+  },
+  "summary": "Product manager with 8 years of experience leading B2B SaaS products from zero to scale in Nordic tech companies.",
+  "skills": {
+    "technical": [
+      "Product roadmapping",
+      "OKRs",
+      "A/B testing",
+      "Analytics",
+      "Jira",
+      "SQL",
+      "User interviews",
+      "Pricing strategy"
+    ],
+    "soft": [
+      "Vision setting",
+      "Stakeholder alignment",
+      "Prioritisation",
+      "Communication"
+    ]
+  },
+  "experience": [
+    {
+      "title": "Senior Product Manager",
+      "company": "Visma",
+      "location": "Stockholm, Sweden",
+      "start_date": "2019-03",
+      "end_date": null,
+      "current": true,
+      "description": "Owning the core accounting product used by 200k SMEs.",
+      "responsibilities": [
+        "Grew MAU by 40% in 18 months through feature-led growth",
+        "Launched automated bank reconciliation used by 80% of customers",
+        "Managed a roadmap across 3 engineering teams"
+      ],
+      "technologies": [
+        "Jira",
+        "Amplitude",
+        "SQL",
+        "Figma"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "M.Sc. in Industrial Engineering and Management",
+      "institution": "Chalmers University of Technology",
+      "location": "Gothenburg, Sweden",
+      "graduation_date": "2016-06"
+    }
+  ],
+  "certifications": [],
+  "languages": [
+    {
+      "language": "Swedish",
+      "proficiency": "Native"
+    },
+    {
+      "language": "English",
+      "proficiency": "Fluent"
+    },
+    {
+      "language": "French",
+      "proficiency": "Conversational"
+    }
+  ]
+}

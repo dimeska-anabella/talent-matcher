@@ -1,0 +1,73 @@
+{
+  "id": "cv_044",
+  "available_from": "2026-08-15",
+  "personal_info": {
+    "name": "Magnus Holm",
+    "email": "magnus.holm@example.com",
+    "phone": "+46 70 345 7890",
+    "location": "Linköping, Sweden",
+    "linkedin": "linkedin.com/in/magnusholm",
+    "github": "github.com/mholm"
+  },
+  "summary": "Backend developer specialising in Go and Rust, with 5 years of experience in high-performance APIs and systems programming.",
+  "skills": {
+    "technical": [
+      "Go",
+      "Rust",
+      "gRPC",
+      "REST",
+      "PostgreSQL",
+      "Redis",
+      "Docker",
+      "AWS"
+    ],
+    "soft": [
+      "Performance focus",
+      "Documentation",
+      "Code quality",
+      "Collaboration"
+    ]
+  },
+  "experience": [
+    {
+      "title": "Backend Developer",
+      "company": "Saab Digital",
+      "location": "Linköping, Sweden",
+      "start_date": "2021-03",
+      "end_date": null,
+      "current": true,
+      "description": "Developing low-latency backend services for defence and aviation systems.",
+      "responsibilities": [
+        "Built gRPC service handling 50k requests/second at sub-5ms p99",
+        "Rewrote legacy C++ module in Rust reducing memory footprint by 60%",
+        "Implemented audit logging system meeting military compliance standards"
+      ],
+      "technologies": [
+        "Go",
+        "Rust",
+        "gRPC",
+        "PostgreSQL",
+        "Docker"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "M.Sc. in Computer Engineering",
+      "institution": "Linköping University",
+      "location": "Linköping, Sweden",
+      "graduation_date": "2020-06"
+    }
+  ],
+  "certifications": [],
+  "languages": [
+    {
+      "language": "Swedish",
+      "proficiency": "Native"
+    },
+    {
+      "language": "English",
+      "proficiency": "Fluent"
+    }
+  ]
+}

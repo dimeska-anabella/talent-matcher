@@ -1,0 +1,84 @@
+{
+  "id": "cv_038",
+  "available_from": "2026-09-01",
+  "personal_info": {
+    "name": "Anders Persson",
+    "email": "anders.persson@example.com",
+    "phone": "+46 70 789 0123",
+    "location": "Stockholm, Sweden",
+    "linkedin": "linkedin.com/in/anderspersson",
+    "github": "github.com/apersson"
+  },
+  "summary": "Cybersecurity consultant with 8 years of experience in penetration testing, threat modelling, and cloud security.",
+  "skills": {
+    "technical": [
+      "Penetration testing",
+      "SIEM",
+      "Azure Security",
+      "OWASP",
+      "Threat modelling",
+      "Python",
+      "Network security",
+      "ISO 27001"
+    ],
+    "soft": [
+      "Attention to detail",
+      "Risk communication",
+      "Client advisory",
+      "Documentation"
+    ]
+  },
+  "experience": [
+    {
+      "title": "Senior Cybersecurity Consultant",
+      "company": "Truesec",
+      "location": "Stockholm, Sweden",
+      "start_date": "2018-03",
+      "end_date": null,
+      "current": true,
+      "description": "Providing offensive and defensive security services to enterprise clients.",
+      "responsibilities": [
+        "Conducted 50+ penetration tests across banking and public sector",
+        "Led incident response for 3 ransomware cases",
+        "Delivered security awareness training to 1000+ employees"
+      ],
+      "technologies": [
+        "Kali Linux",
+        "Burp Suite",
+        "Azure Security Center",
+        "SIEM",
+        "Python"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "M.Sc. in Information Security",
+      "institution": "KTH Royal Institute of Technology",
+      "location": "Stockholm, Sweden",
+      "graduation_date": "2016-06"
+    }
+  ],
+  "certifications": [
+    {
+      "name": "OSCP",
+      "issuer": "Offensive Security",
+      "date": "2019-04"
+    },
+    {
+      "name": "CISSP",
+      "issuer": "ISC2",
+      "date": "2021-09"
+    }
+  ],
+  "languages": [
+    {
+      "language": "Swedish",
+      "proficiency": "Native"
+    },
+    {
+      "language": "English",
+      "proficiency": "Fluent"
+    }
+  ]
+}

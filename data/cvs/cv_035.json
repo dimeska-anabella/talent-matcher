@@ -1,0 +1,79 @@
+{
+  "id": "cv_035",
+  "available_from": null,
+  "personal_info": {
+    "name": "Anna Svensson",
+    "email": "anna.svensson@example.com",
+    "phone": "+46 70 456 7890",
+    "location": "Stockholm, Sweden",
+    "linkedin": "linkedin.com/in/annasvensson",
+    "github": "github.com/asvensson"
+  },
+  "summary": "DevOps engineer with 5 years of experience in CI/CD automation, Kubernetes, and platform engineering.",
+  "skills": {
+    "technical": [
+      "Kubernetes",
+      "Terraform",
+      "Helm",
+      "GitHub Actions",
+      "Azure DevOps",
+      "Prometheus",
+      "Grafana",
+      "Python"
+    ],
+    "soft": [
+      "Ownership",
+      "Reliability focus",
+      "Collaboration",
+      "Documentation"
+    ]
+  },
+  "experience": [
+    {
+      "title": "DevOps Engineer",
+      "company": "Spotify",
+      "location": "Stockholm, Sweden",
+      "start_date": "2021-02",
+      "end_date": null,
+      "current": true,
+      "description": "Platform engineering for internal developer tooling.",
+      "responsibilities": [
+        "Managed 200+ node Kubernetes cluster",
+        "Reduced CI pipeline times by 35%",
+        "Implemented GitOps workflows with ArgoCD"
+      ],
+      "technologies": [
+        "Kubernetes",
+        "Terraform",
+        "GitHub Actions",
+        "Prometheus",
+        "ArgoCD"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "B.Sc. in Systems Engineering",
+      "institution": "Uppsala University",
+      "location": "Uppsala, Sweden",
+      "graduation_date": "2020-06"
+    }
+  ],
+  "certifications": [
+    {
+      "name": "Certified Kubernetes Administrator (CKA)",
+      "issuer": "CNCF",
+      "date": "2022-09"
+    }
+  ],
+  "languages": [
+    {
+      "language": "Swedish",
+      "proficiency": "Native"
+    },
+    {
+      "language": "English",
+      "proficiency": "Fluent"
+    }
+  ]
+}

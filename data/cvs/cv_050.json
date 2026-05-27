@@ -1,0 +1,74 @@
+{
+  "id": "cv_050",
+  "available_from": "2026-08-01",
+  "personal_info": {
+    "name": "Viktor Åberg",
+    "email": "viktor.aberg@example.com",
+    "phone": "+46 70 901 3456",
+    "location": "Gothenburg, Sweden",
+    "linkedin": "linkedin.com/in/viktoraberg",
+    "github": "github.com/vaberg"
+  },
+  "summary": "Platform engineer with 6 years of experience in developer productivity, internal tooling, and observability platforms.",
+  "skills": {
+    "technical": [
+      "Kubernetes",
+      "Backstage",
+      "OpenTelemetry",
+      "Grafana",
+      "Prometheus",
+      "Terraform",
+      "Go",
+      "Python"
+    ],
+    "soft": [
+      "Developer empathy",
+      "Documentation",
+      "Open source contributions",
+      "Collaboration"
+    ]
+  },
+  "experience": [
+    {
+      "title": "Platform Engineer",
+      "company": "Zenseact",
+      "location": "Gothenburg, Sweden",
+      "start_date": "2020-11",
+      "end_date": null,
+      "current": true,
+      "description": "Building the internal developer platform for autonomous driving software teams.",
+      "responsibilities": [
+        "Deployed Backstage IDP adopted by 150+ engineers",
+        "Built OpenTelemetry ingestion pipeline handling 1B spans/day",
+        "Reduced on-call alert noise by 70% through SLO-based alerting"
+      ],
+      "technologies": [
+        "Kubernetes",
+        "Backstage",
+        "OpenTelemetry",
+        "Prometheus",
+        "Grafana",
+        "Terraform"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "M.Sc. in Software Engineering",
+      "institution": "Chalmers University of Technology",
+      "location": "Gothenburg, Sweden",
+      "graduation_date": "2019-06"
+    }
+  ],
+  "certifications": [],
+  "languages": [
+    {
+      "language": "Swedish",
+      "proficiency": "Native"
+    },
+    {
+      "language": "English",
+      "proficiency": "Fluent"
+    }
+  ]
+}

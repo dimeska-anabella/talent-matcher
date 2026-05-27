@@ -1,0 +1,73 @@
+{
+  "id": "cv_036",
+  "available_from": "2026-06-15",
+  "personal_info": {
+    "name": "Lars Johansson",
+    "email": "lars.johansson@example.com",
+    "phone": "+46 70 567 8901",
+    "location": "Stockholm, Sweden",
+    "linkedin": "linkedin.com/in/larsjohansson",
+    "github": "github.com/ljohansson"
+  },
+  "summary": "Machine learning engineer with 5 years of experience in NLP, recommendation systems, and MLOps.",
+  "skills": {
+    "technical": [
+      "Python",
+      "PyTorch",
+      "Hugging Face",
+      "MLflow",
+      "Kubeflow",
+      "GCP",
+      "SQL",
+      "Spark"
+    ],
+    "soft": [
+      "Research mindset",
+      "Presentation",
+      "Cross-functional collaboration",
+      "Agile"
+    ]
+  },
+  "experience": [
+    {
+      "title": "Machine Learning Engineer",
+      "company": "King",
+      "location": "Stockholm, Sweden",
+      "start_date": "2021-04",
+      "end_date": null,
+      "current": true,
+      "description": "Building recommendation and personalisation models for mobile games.",
+      "responsibilities": [
+        "Trained and deployed NLP models for player support automation",
+        "Built A/B testing framework for model evaluation",
+        "Reduced model training time by 40% via distributed training"
+      ],
+      "technologies": [
+        "Python",
+        "PyTorch",
+        "GCP",
+        "Kubeflow",
+        "MLflow"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "M.Sc. in Machine Learning",
+      "institution": "KTH Royal Institute of Technology",
+      "location": "Stockholm, Sweden",
+      "graduation_date": "2021-01"
+    }
+  ],
+  "certifications": [],
+  "languages": [
+    {
+      "language": "Swedish",
+      "proficiency": "Native"
+    },
+    {
+      "language": "English",
+      "proficiency": "Fluent"
+    }
+  ]
+}
