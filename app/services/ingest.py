@@ -10,6 +10,7 @@ from app.services.text_builder import candidate_to_text
 
 
 def _embed_text(settings: Settings, text: str) -> List[float]:
+    """Call the embedding model and return the vector. Provided — no changes needed."""
     kwargs: Dict[str, Any] = {
         "model": settings.embedding_model,
         "input": [text],
@@ -25,6 +26,7 @@ def _embed_text(settings: Settings, text: str) -> List[float]:
 
 
 def _load_candidate_files(cvs_dir: Path) -> List[Dict[str, Any]]:
+    """Load all candidate JSON files from the CVs directory. Provided — no changes needed."""
     candidates: List[Dict[str, Any]] = []
     for path in sorted(cvs_dir.glob("*.json")):
         with path.open("r", encoding="utf-8") as f:
@@ -36,10 +38,13 @@ def ingest_candidates(settings: Settings) -> Dict[str, int]:
     settings.chroma_path().mkdir(parents=True, exist_ok=True)
 
     client = chromadb.PersistentClient(path=str(settings.chroma_path()))
-    collection = client.get_or_create_collection(
-        settings.chroma_collection,
-        metadata={"hnsw:space": "cosine"},
-    )
+
+    # TODO Stage 2: Create (or retrieve) the Chroma collection.
+    # Important: use cosine distance — without it similarity scores will all be 0.
+    # collection = client.get_or_create_collection(
+    #     settings.chroma_collection,
+    #     metadata={"hnsw:space": "cosine"},
+    # )
 
     candidates = _load_candidate_files(settings.cvs_path())
 
@@ -70,7 +75,8 @@ def ingest_candidates(settings: Settings) -> Dict[str, int]:
             }
         )
 
-    if ids:
-        collection.upsert(ids=ids, documents=docs, embeddings=embeddings, metadatas=metadatas)
+    # TODO Stage 2: Store all candidate embeddings in Chroma.
+    # if ids:
+    #     collection.upsert(ids=ids, documents=docs, embeddings=embeddings, metadatas=metadatas)
 
     return {"indexed": len(ids)}

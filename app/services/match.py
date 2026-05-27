@@ -12,6 +12,7 @@ from app.services.text_builder import extract_candidate_technical_skills
 
 
 def _embed_query(settings: Settings, text: str) -> List[float]:
+    """Embed the job description query. Provided — no changes needed."""
     kwargs: Dict[str, Any] = {
         "model": settings.embedding_model,
         "input": [text],
@@ -26,6 +27,7 @@ def _embed_query(settings: Settings, text: str) -> List[float]:
 
 
 def _load_candidates(settings: Settings) -> Dict[str, Dict[str, Any]]:
+    """Load all candidate JSON files keyed by id. Provided — no changes needed."""
     by_id: Dict[str, Dict[str, Any]] = {}
     for path in sorted(Path(settings.cvs_dir).glob("*.json")):
         with path.open("r", encoding="utf-8") as f:
@@ -49,6 +51,11 @@ def _location_bonus(job_text: str, location: str) -> float:
 
 
 def _score_candidate(job_text: str, semantic_score: float, candidate: Dict[str, Any]) -> Dict[str, Any]:
+    """Score a single candidate against the job description.
+
+    The three components are already computed below.
+    Stage 3 TODO: combine them into a single final_score.
+    """
     job_tokens = set(_normalize_skill_tokens(job_text))
     skills = extract_candidate_technical_skills(candidate)
     skills_tokens = {item.lower() for item in skills}
@@ -58,7 +65,11 @@ def _score_candidate(job_text: str, semantic_score: float, candidate: Dict[str, 
     location = candidate.get("personal_info", {}).get("location", "")
     bonus = _location_bonus(job_text, location)
 
-    final_score = (0.7 * semantic_score) + (0.2 * overlap) + (0.1 * bonus)
+    # TODO Stage 3: Combine the three signals into one score.
+    # Try adjusting the weights and see how the ranking changes.
+    # final_score = (0.7 * semantic_score) + (0.2 * overlap) + (0.1 * bonus)
+    final_score = 0.0  # replace this
+
     return {
         "matched_skills": matched,
         "skills_overlap_score": overlap,
@@ -86,7 +97,7 @@ def match_job_text(settings: Settings, job_text: str) -> MatchResponse:
     ranked: List[CandidateMatch] = []
 
     for candidate_id, metadata, distance in zip(ids, metadatas, distances):
-        # Chroma distance is lower-is-better for cosine distance, invert to a similarity-like signal.
+        # Cosine distance from Chroma is lower-is-better; invert to get a 0–1 similarity score.
         semantic_score = max(0.0, 1.0 - float(distance))
         candidate_json = all_candidates.get(candidate_id, {})
         scoring = _score_candidate(job_text, semantic_score, candidate_json)
@@ -123,5 +134,7 @@ def match_job_text(settings: Settings, job_text: str) -> MatchResponse:
             )
         )
 
-    ranked.sort(key=lambda item: item.final_score, reverse=True)
-    return MatchResponse(top_matches=ranked[: settings.top_n])
+    # TODO Stage 3: Sort by final_score (highest first) and return only the top N results.
+    # ranked.sort(key=lambda item: item.final_score, reverse=True)
+    # return MatchResponse(top_matches=ranked[: settings.top_n])
+    return MatchResponse(top_matches=ranked)  # replace this
