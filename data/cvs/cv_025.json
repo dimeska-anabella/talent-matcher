@@ -1,0 +1,79 @@
+{
+  "id": "cv_025",
+  "personal_info": {
+    "name": "Maria Toivonen",
+    "email": "maria.toivonen@example.com",
+    "phone": "+358 40 567 8901",
+    "location": "Espoo, Finland",
+    "linkedin": "linkedin.com/in/mariatoivonen"
+  },
+  "summary": "Enterprise architect with 11 years of experience in IT strategy and architecture frameworks.",
+  "skills": {
+    "technical": [
+      "TOGAF",
+      "ArchiMate",
+      "Enterprise architecture",
+      "Cloud strategy",
+      "IT governance",
+      "Business architecture"
+    ],
+    "soft": [
+      "Strategic thinking",
+      "Stakeholder management",
+      "Leadership",
+      "Communication",
+      "Change management"
+    ]
+  },
+  "experience": [
+    {
+      "title": "Enterprise Architect",
+      "company": "Large Enterprise Corp",
+      "location": "Espoo, Finland",
+      "start_date": "2017-01",
+      "end_date": null,
+      "current": true,
+      "description": "Defining enterprise IT architecture and strategy.",
+      "responsibilities": [
+        "Led digital transformation architecture for organization of 5000+ employees",
+        "Defined cloud adoption strategy",
+        "Managed architecture governance and review processes"
+      ],
+      "technologies": [
+        "TOGAF",
+        "ArchiMate",
+        "AWS",
+        "Azure"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "M.Sc. in Information Networks",
+      "institution": "Aalto University",
+      "location": "Espoo, Finland",
+      "graduation_date": "2013-06"
+    }
+  ],
+  "certifications": [
+    {
+      "name": "TOGAF 9 Certified",
+      "issuer": "The Open Group",
+      "date": "2015-04"
+    }
+  ],
+  "languages": [
+    {
+      "language": "Finnish",
+      "proficiency": "Native"
+    },
+    {
+      "language": "English",
+      "proficiency": "Fluent"
+    },
+    {
+      "language": "Swedish",
+      "proficiency": "Fluent"
+    }
+  ]
+}

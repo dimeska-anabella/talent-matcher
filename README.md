@@ -50,14 +50,10 @@ Fill in:
 
 4. Ingest candidate data into Chroma
 
+> Run all commands from the project root (`talent-matcher/`).
+
 ```bash
 python scripts/ingest_data.py
-```
-
-Optional: create single-file consolidated datasets:
-
-```bash
-python scripts/normalize_data.py
 ```
 
 5. Run API
@@ -76,22 +72,13 @@ curl -X POST http://localhost:8000/match \
 
 ## Data Layout
 
-Current source data is in:
+All data lives under `data/`:
 
-- `cvs/` detailed candidate profiles
-- `jobs/` detailed job descriptions
-
-Optional consolidated outputs (generated):
-
-- `data/candidates.json`
-- `data/jobs.json`
-
-Summary files:
-
-- `cvs.json`
-- `jobs.json`
-
-Optional schema references are in `data/schemas/`.
+- `data/cvs/` — individual candidate profile JSON files (source for ingest)
+- `data/jobs/` — individual job description JSON files (source for `/match/job/{id}`)
+- `data/candidates.json` — consolidated candidate list (reference/browsing)
+- `data/jobs.json` — consolidated job list (reference/browsing)
+- `data/schemas/` — JSON schemas for candidates and jobs
 
 ## Core Matching Flow
 
@@ -116,18 +103,23 @@ app/
     match.py
     explain.py
     text_builder.py
+data/
+  cvs/                    ← candidate profiles (ingest reads from here)
+  jobs/                   ← job descriptions
+  candidates.json         ← consolidated reference
+  jobs.json               ← consolidated reference
+  schemas/
+    candidate.schema.json
+    job.schema.json
 scripts/
   ingest_data.py
+  normalize_data.py       ← rebuild candidates.json / jobs.json from individual files
 docs/
   01-concepts.md
   02-architecture.md
   03-hackathon-track.md
   04-tech-options.md
   05-prompting-and-evaluation.md
-data/
-  schemas/
-    candidate.schema.json
-    job.schema.json
 ```
 
 ## Environment Variables

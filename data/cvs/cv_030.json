@@ -1,0 +1,84 @@
+{
+  "id": "cv_030",
+  "personal_info": {
+    "name": "Pekka Vuorinen",
+    "email": "pekka.vuorinen@example.com",
+    "phone": "+358 45 012 3456",
+    "location": "Jyväskylä, Finland",
+    "linkedin": "linkedin.com/in/pekkavuorinen",
+    "github": "github.com/pvuorinen"
+  },
+  "summary": "Cloud architect with 8 years of experience designing multi-cloud solutions.",
+  "skills": {
+    "technical": [
+      "AWS",
+      "Azure",
+      "GCP",
+      "Terraform",
+      "CloudFormation",
+      "Kubernetes",
+      "Docker",
+      "Python",
+      "Architecture design"
+    ],
+    "soft": [
+      "Technical leadership",
+      "Cost optimization",
+      "Security",
+      "Documentation",
+      "Mentoring"
+    ]
+  },
+  "experience": [
+    {
+      "title": "Cloud Architect",
+      "company": "Cloud Consulting Group",
+      "location": "Jyväskylä, Finland",
+      "start_date": "2018-02",
+      "end_date": null,
+      "current": true,
+      "description": "Architecting cloud solutions for enterprise clients.",
+      "responsibilities": [
+        "Designed cloud architectures for 25+ projects",
+        "Led multi-cloud migration initiatives",
+        "Reduced infrastructure costs by 45% through optimization"
+      ],
+      "technologies": [
+        "AWS",
+        "Azure",
+        "Terraform",
+        "Kubernetes"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "M.Sc. in Information Technology",
+      "institution": "University of Jyväskylä",
+      "location": "Jyväskylä, Finland",
+      "graduation_date": "2016-06"
+    }
+  ],
+  "certifications": [
+    {
+      "name": "AWS Certified Solutions Architect - Professional",
+      "issuer": "Amazon Web Services",
+      "date": "2019-11"
+    },
+    {
+      "name": "Azure Solutions Architect Expert",
+      "issuer": "Microsoft",
+      "date": "2020-08"
+    }
+  ],
+  "languages": [
+    {
+      "language": "Finnish",
+      "proficiency": "Native"
+    },
+    {
+      "language": "English",
+      "proficiency": "Fluent"
+    }
+  ]
+}

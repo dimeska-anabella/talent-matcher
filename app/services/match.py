@@ -19,7 +19,8 @@ def _embed_query(settings: Settings, text: str) -> List[float]:
     if settings.litellm_api_key:
         kwargs["api_key"] = settings.litellm_api_key
     if settings.litellm_base_url:
-        kwargs["base_url"] = settings.litellm_base_url
+        kwargs["api_base"] = settings.litellm_base_url
+        kwargs["custom_llm_provider"] = "openai"
     response = embedding(**kwargs)
     return response.data[0]["embedding"]
 

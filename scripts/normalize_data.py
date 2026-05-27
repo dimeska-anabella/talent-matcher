@@ -13,9 +13,9 @@ def _read_json_files(directory: Path) -> List[Dict[str, Any]]:
 
 def main() -> None:
     base = Path(".")
-    cvs_dir = base / "cvs"
-    jobs_dir = base / "jobs"
     data_dir = base / "data"
+    cvs_dir = data_dir / "cvs"
+    jobs_dir = data_dir / "jobs"
     data_dir.mkdir(parents=True, exist_ok=True)
 
     candidates = _read_json_files(cvs_dir)

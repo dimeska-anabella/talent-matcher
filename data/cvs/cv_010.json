@@ -1,0 +1,71 @@
+{
+  "id": "cv_010",
+  "personal_info": {
+    "name": "Ville Virtanen",
+    "email": "ville.virtanen@example.com",
+    "phone": "+358 40 012 3456",
+    "location": "Tampere, Finland",
+    "linkedin": "linkedin.com/in/villevirtanen",
+    "github": "github.com/vvirtanen"
+  },
+  "summary": "Mobile developer with 5 years of experience building iOS and Android applications.",
+  "skills": {
+    "technical": [
+      "Swift",
+      "Kotlin",
+      "React Native",
+      "iOS",
+      "Android",
+      "REST APIs",
+      "Git",
+      "Firebase"
+    ],
+    "soft": [
+      "User-centered design",
+      "Testing",
+      "Collaboration",
+      "Problem-solving"
+    ]
+  },
+  "experience": [
+    {
+      "title": "Mobile Developer",
+      "company": "Mobile Apps Ltd",
+      "location": "Tampere, Finland",
+      "start_date": "2019-09",
+      "end_date": null,
+      "current": true,
+      "description": "Developing native and cross-platform mobile applications.",
+      "responsibilities": [
+        "Built 10+ mobile apps with 100k+ downloads",
+        "Implemented push notifications and analytics",
+        "Maintained 4.5+ star rating on app stores"
+      ],
+      "technologies": [
+        "Swift",
+        "Kotlin",
+        "React Native",
+        "Firebase"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "B.Sc. in Software Engineering",
+      "institution": "Tampere University",
+      "location": "Tampere, Finland",
+      "graduation_date": "2019-06"
+    }
+  ],
+  "certifications": [],
+  "languages": [
+    {
+      "language": "Finnish",
+      "proficiency": "Native"
+    },
+    {
+      "language": "English",
+      "proficiency": "Fluent"
+    }
+  ]
+}

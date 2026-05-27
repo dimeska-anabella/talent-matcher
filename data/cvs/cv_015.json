@@ -1,0 +1,73 @@
+{
+  "id": "cv_015",
+  "personal_info": {
+    "name": "Sanna Kivi",
+    "email": "sanna.kivi@example.com",
+    "phone": "+358 45 567 8901",
+    "location": "Turku, Finland",
+    "linkedin": "linkedin.com/in/sannakivi",
+    "github": "github.com/skivi"
+  },
+  "summary": "Data scientist with 5 years of experience in predictive modeling and statistical analysis.",
+  "skills": {
+    "technical": [
+      "Python",
+      "R",
+      "SQL",
+      "TensorFlow",
+      "Scikit-learn",
+      "Pandas",
+      "Jupyter",
+      "Statistics",
+      "Machine learning"
+    ],
+    "soft": [
+      "Research",
+      "Presentation",
+      "Problem-solving",
+      "Collaboration"
+    ]
+  },
+  "experience": [
+    {
+      "title": "Data Scientist",
+      "company": "Analytics Consulting",
+      "location": "Turku, Finland",
+      "start_date": "2019-10",
+      "end_date": null,
+      "current": true,
+      "description": "Building predictive models for business insights.",
+      "responsibilities": [
+        "Developed churn prediction model with 87% accuracy",
+        "Conducted statistical analysis for 15+ client projects",
+        "Presented findings to C-level executives"
+      ],
+      "technologies": [
+        "Python",
+        "R",
+        "TensorFlow",
+        "SQL",
+        "Jupyter"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "Ph.D. in Applied Mathematics",
+      "institution": "University of Turku",
+      "location": "Turku, Finland",
+      "graduation_date": "2019-08"
+    }
+  ],
+  "certifications": [],
+  "languages": [
+    {
+      "language": "Finnish",
+      "proficiency": "Native"
+    },
+    {
+      "language": "English",
+      "proficiency": "Fluent"
+    }
+  ]
+}

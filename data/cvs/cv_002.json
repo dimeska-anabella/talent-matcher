@@ -1,0 +1,77 @@
+{
+  "id": "cv_002",
+  "personal_info": {
+    "name": "Mikko Korhonen",
+    "email": "mikko.korhonen@example.com",
+    "phone": "+358 50 234 5678",
+    "location": "Tampere, Finland",
+    "linkedin": "linkedin.com/in/mikkokorhonen",
+    "github": "github.com/mkorhonen"
+  },
+  "summary": "Data engineer with 6 years of experience in building scalable data pipelines and ETL processes.",
+  "skills": {
+    "technical": [
+      "Python",
+      "Apache Spark",
+      "Airflow",
+      "AWS",
+      "Snowflake",
+      "SQL",
+      "Kafka"
+    ],
+    "soft": [
+      "Analytical thinking",
+      "Collaboration",
+      "Documentation",
+      "Agile"
+    ]
+  },
+  "experience": [
+    {
+      "title": "Senior Data Engineer",
+      "company": "DataTech Solutions",
+      "location": "Tampere, Finland",
+      "start_date": "2019-06",
+      "end_date": null,
+      "current": true,
+      "description": "Building enterprise data platforms.",
+      "responsibilities": [
+        "Designed and implemented data pipelines processing 10TB daily",
+        "Migrated on-prem data warehouse to cloud",
+        "Optimized ETL jobs reducing costs by 40%"
+      ],
+      "technologies": [
+        "Python",
+        "Spark",
+        "AWS",
+        "Snowflake",
+        "Airflow"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "B.Sc. in Information Technology",
+      "institution": "Tampere University",
+      "location": "Tampere, Finland",
+      "graduation_date": "2018-05"
+    }
+  ],
+  "certifications": [
+    {
+      "name": "AWS Certified Data Analytics",
+      "issuer": "Amazon Web Services",
+      "date": "2022-03"
+    }
+  ],
+  "languages": [
+    {
+      "language": "Finnish",
+      "proficiency": "Native"
+    },
+    {
+      "language": "English",
+      "proficiency": "Fluent"
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "id": "cv_021",
+  "personal_info": {
+    "name": "Kaisa Lehtonen",
+    "email": "kaisa.lehtonen@example.com",
+    "phone": "+358 45 123 4567",
+    "location": "Helsinki, Finland",
+    "linkedin": "linkedin.com/in/kaisalehtonen"
+  },
+  "summary": "Scrum master with 6 years of experience facilitating agile teams and driving continuous improvement.",
+  "skills": {
+    "technical": [
+      "Scrum",
+      "Kanban",
+      "Jira",
+      "Confluence",
+      "Agile coaching",
+      "SAFe"
+    ],
+    "soft": [
+      "Facilitation",
+      "Servant leadership",
+      "Conflict resolution",
+      "Team building",
+      "Communication"
+    ]
+  },
+  "experience": [
+    {
+      "title": "Scrum Master",
+      "company": "Agile Software House",
+      "location": "Helsinki, Finland",
+      "start_date": "2019-05",
+      "end_date": null,
+      "current": true,
+      "description": "Facilitating multiple agile teams.",
+      "responsibilities": [
+        "Facilitated 3 scrum teams of 25+ people total",
+        "Improved team velocity by 35%",
+        "Coached teams on agile practices and continuous improvement"
+      ],
+      "technologies": [
+        "Jira",
+        "Confluence",
+        "Miro"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "M.Sc. in Industrial Management",
+      "institution": "Aalto University",
+      "location": "Espoo, Finland",
+      "graduation_date": "2018-06"
+    }
+  ],
+  "certifications": [
+    {
+      "name": "Certified Scrum Master",
+      "issuer": "Scrum Alliance",
+      "date": "2018-09"
+    },
+    {
+      "name": "SAFe Agilist",
+      "issuer": "Scaled Agile",
+      "date": "2020-11"
+    }
+  ],
+  "languages": [
+    {
+      "language": "Finnish",
+      "proficiency": "Native"
+    },
+    {
+      "language": "English",
+      "proficiency": "Fluent"
+    }
+  ]
+}

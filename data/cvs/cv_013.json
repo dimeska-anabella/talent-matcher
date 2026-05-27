@@ -1,0 +1,77 @@
+{
+  "id": "cv_013",
+  "personal_info": {
+    "name": "Anni Mäkelä",
+    "email": "anni.makela@example.com",
+    "phone": "+358 40 345 6789",
+    "location": "Oulu, Finland",
+    "linkedin": "linkedin.com/in/annimakela"
+  },
+  "summary": "Quality assurance engineer with 5 years of experience in test automation and quality processes.",
+  "skills": {
+    "technical": [
+      "Selenium",
+      "Cypress",
+      "Jest",
+      "Python",
+      "Java",
+      "Jenkins",
+      "Git",
+      "API testing",
+      "Postman"
+    ],
+    "soft": [
+      "Attention to detail",
+      "Test planning",
+      "Bug tracking",
+      "Process improvement"
+    ]
+  },
+  "experience": [
+    {
+      "title": "QA Engineer",
+      "company": "Software Quality Inc",
+      "location": "Oulu, Finland",
+      "start_date": "2019-08",
+      "end_date": null,
+      "current": true,
+      "description": "Ensuring software quality through automated testing.",
+      "responsibilities": [
+        "Implemented automated test suites reducing testing time by 60%",
+        "Managed test environments and CI/CD integration",
+        "Mentored junior QA engineers"
+      ],
+      "technologies": [
+        "Selenium",
+        "Cypress",
+        "Python",
+        "Jenkins"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "B.Sc. in Information Processing Science",
+      "institution": "University of Oulu",
+      "location": "Oulu, Finland",
+      "graduation_date": "2019-05"
+    }
+  ],
+  "certifications": [
+    {
+      "name": "ISTQB Certified Tester - Advanced Level",
+      "issuer": "ISTQB",
+      "date": "2021-03"
+    }
+  ],
+  "languages": [
+    {
+      "language": "Finnish",
+      "proficiency": "Native"
+    },
+    {
+      "language": "English",
+      "proficiency": "Fluent"
+    }
+  ]
+}

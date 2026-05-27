@@ -1,0 +1,69 @@
+{
+  "id": "cv_024",
+  "personal_info": {
+    "name": "Olli Virtanen",
+    "email": "olli.virtanen@example.com",
+    "phone": "+358 45 456 7890",
+    "location": "Tampere, Finland",
+    "linkedin": "linkedin.com/in/ollivirtanen",
+    "github": "github.com/ovirtanen"
+  },
+  "summary": "Game developer with 4 years of experience in Unity and Unreal Engine.",
+  "skills": {
+    "technical": [
+      "Unity",
+      "Unreal Engine",
+      "C#",
+      "C++",
+      "3D modeling",
+      "Game design",
+      "Shader programming"
+    ],
+    "soft": [
+      "Creativity",
+      "Problem-solving",
+      "Collaboration",
+      "Prototyping"
+    ]
+  },
+  "experience": [
+    {
+      "title": "Game Developer",
+      "company": "Indie Game Studio",
+      "location": "Tampere, Finland",
+      "start_date": "2020-06",
+      "end_date": null,
+      "current": true,
+      "description": "Developing mobile and PC games.",
+      "responsibilities": [
+        "Developed 3 published games",
+        "Implemented gameplay mechanics and UI",
+        "Optimized performance for mobile platforms"
+      ],
+      "technologies": [
+        "Unity",
+        "C#",
+        "Blender"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "B.Sc. in Game Development",
+      "institution": "Tampere University of Applied Sciences",
+      "location": "Tampere, Finland",
+      "graduation_date": "2020-05"
+    }
+  ],
+  "certifications": [],
+  "languages": [
+    {
+      "language": "Finnish",
+      "proficiency": "Native"
+    },
+    {
+      "language": "English",
+      "proficiency": "Fluent"
+    }
+  ]
+}

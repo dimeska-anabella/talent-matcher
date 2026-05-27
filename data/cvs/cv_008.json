@@ -1,0 +1,73 @@
+{
+  "id": "cv_008",
+  "personal_info": {
+    "name": "Petri Salo",
+    "email": "petri.salo@example.com",
+    "phone": "+358 50 890 1234",
+    "location": "Jyväskylä, Finland",
+    "linkedin": "linkedin.com/in/petrisalo",
+    "github": "github.com/psalos"
+  },
+  "summary": "Frontend developer with 6 years of experience in React, Vue.js, and modern web technologies.",
+  "skills": {
+    "technical": [
+      "React",
+      "Vue.js",
+      "TypeScript",
+      "JavaScript",
+      "CSS",
+      "HTML",
+      "Webpack",
+      "Jest",
+      "Cypress"
+    ],
+    "soft": [
+      "Attention to detail",
+      "Collaboration",
+      "User focus",
+      "Agile"
+    ]
+  },
+  "experience": [
+    {
+      "title": "Frontend Developer",
+      "company": "Web Development Studio",
+      "location": "Jyväskylä, Finland",
+      "start_date": "2018-07",
+      "end_date": null,
+      "current": true,
+      "description": "Building responsive web applications.",
+      "responsibilities": [
+        "Developed 20+ React applications",
+        "Implemented responsive designs from Figma mockups",
+        "Improved application performance by 40%"
+      ],
+      "technologies": [
+        "React",
+        "TypeScript",
+        "CSS",
+        "Jest",
+        "Webpack"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "B.Sc. in Information Systems",
+      "institution": "University of Jyväskylä",
+      "location": "Jyväskylä, Finland",
+      "graduation_date": "2018-05"
+    }
+  ],
+  "certifications": [],
+  "languages": [
+    {
+      "language": "Finnish",
+      "proficiency": "Native"
+    },
+    {
+      "language": "English",
+      "proficiency": "Fluent"
+    }
+  ]
+}

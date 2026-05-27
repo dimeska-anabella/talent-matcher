@@ -1,5 +1,27 @@
+# Python
 __pycache__/
 *.pyc
+*.pyo
+*.pyd
+*.egg-info/
+dist/
+build/
+
+# Virtual environment
 .venv/
+venv/
+env/
+
+# Environment variables (contains secrets)
 .env
+
+# Vector database (rebuilt locally via ingest)
 .chroma/
+
+# macOS
+.DS_Store
+
+# IDE
+.idea/
+.vscode/
+*.swp

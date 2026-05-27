@@ -14,8 +14,8 @@ class Settings(BaseSettings):
     embedding_model: str = "openai/text-embedding-3-small"
     chat_model: str = "openai/gpt-4o-mini"
 
-    cvs_dir: str = "./cvs"
-    jobs_dir: str = "./jobs"
+    cvs_dir: str = "./data/cvs"
+    jobs_dir: str = "./data/jobs"
     chroma_dir: str = "./.chroma"
     chroma_collection: str = "candidates"
 

@@ -17,7 +17,8 @@ def _embed_text(settings: Settings, text: str) -> List[float]:
     if settings.litellm_api_key:
         kwargs["api_key"] = settings.litellm_api_key
     if settings.litellm_base_url:
-        kwargs["base_url"] = settings.litellm_base_url
+        kwargs["api_base"] = settings.litellm_base_url
+        kwargs["custom_llm_provider"] = "openai"
 
     response = embedding(**kwargs)
     return response.data[0]["embedding"]
@@ -35,7 +36,10 @@ def ingest_candidates(settings: Settings) -> Dict[str, int]:
     settings.chroma_path().mkdir(parents=True, exist_ok=True)
 
     client = chromadb.PersistentClient(path=str(settings.chroma_path()))
-    collection = client.get_or_create_collection(settings.chroma_collection)
+    collection = client.get_or_create_collection(
+        settings.chroma_collection,
+        metadata={"hnsw:space": "cosine"},
+    )
 
     candidates = _load_candidate_files(settings.cvs_path())
 

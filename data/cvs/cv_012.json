@@ -1,0 +1,78 @@
+{
+  "id": "cv_012",
+  "personal_info": {
+    "name": "Tuomas Lehto",
+    "email": "tuomas.lehto@example.com",
+    "phone": "+358 45 234 5678",
+    "location": "Espoo, Finland",
+    "linkedin": "linkedin.com/in/tuomaslehto",
+    "github": "github.com/tlehto"
+  },
+  "summary": "Solutions architect with 9 years of experience designing scalable cloud-based systems.",
+  "skills": {
+    "technical": [
+      "AWS",
+      "Azure",
+      "Microservices",
+      "System design",
+      "Docker",
+      "Kubernetes",
+      "Terraform",
+      "Python",
+      "Java"
+    ],
+    "soft": [
+      "Technical leadership",
+      "Architecture design",
+      "Stakeholder communication",
+      "Mentoring"
+    ]
+  },
+  "experience": [
+    {
+      "title": "Solutions Architect",
+      "company": "Enterprise Cloud Services",
+      "location": "Espoo, Finland",
+      "start_date": "2019-04",
+      "end_date": null,
+      "current": true,
+      "description": "Architecting enterprise cloud solutions.",
+      "responsibilities": [
+        "Designed architecture for 20+ cloud migration projects",
+        "Led technical teams of 8-12 developers",
+        "Reduced infrastructure costs by 35% through optimization"
+      ],
+      "technologies": [
+        "AWS",
+        "Azure",
+        "Kubernetes",
+        "Terraform"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "M.Sc. in Computer Science",
+      "institution": "Aalto University",
+      "location": "Espoo, Finland",
+      "graduation_date": "2015-05"
+    }
+  ],
+  "certifications": [
+    {
+      "name": "AWS Certified Solutions Architect - Professional",
+      "issuer": "Amazon Web Services",
+      "date": "2020-11"
+    }
+  ],
+  "languages": [
+    {
+      "language": "Finnish",
+      "proficiency": "Native"
+    },
+    {
+      "language": "English",
+      "proficiency": "Fluent"
+    }
+  ]
+}

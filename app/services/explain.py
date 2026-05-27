@@ -40,7 +40,8 @@ def llm_explanation(
     if settings.litellm_api_key:
         kwargs["api_key"] = settings.litellm_api_key
     if settings.litellm_base_url:
-        kwargs["base_url"] = settings.litellm_base_url
+        kwargs["api_base"] = settings.litellm_base_url
+        kwargs["custom_llm_provider"] = "openai"
 
     try:
         response = completion(**kwargs)
